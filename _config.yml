@@ -5,8 +5,8 @@ theme: alembic-jekyll-theme
 exclude:
 - Gemfile
 - Gemfile.lock
-- vendor
 - README.md
+- vendor
 
 # Set plugins
 plugins:

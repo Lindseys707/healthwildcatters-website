@@ -4,35 +4,9 @@ layout: default
 
 {% include site-header.html %}
 
-<!-- Header -->
-<section class="height-70 p-0 bg-white">
-  <div class="container py-4 height-md-60">
-    <div class="row">
-      <div class="col-md-7 col-lg-6 spacer-y-3">
-
-        <h1 class="display-4">Future-Proofing Healthcare</h1>
-
-        <p class="lead">Health Wildcatters provides investment and key resources to support healthcare entrepreneurs.</p>
-
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Events header -->
-<section class="bg-dark">
-  <img src="https://via.placeholder.com/1600x1067" alt="" class="bg-image opacity-50">
-  <div class="container height-lg-30">
-    <div class="row">
-      <div class="col-md-8 col-lg-7 col-xl-6">
-        <h1 class="display-4 text-white">Events</h1>
-        <p class="lead mb-0 text-white">
-          Yeah, we have events.
-        </p>
-      </div>
-    </div>
-  </div>
-</section>
+{% for block in page.content_blocks %}
+  {% include block-{{ block.block_name }}.html %}
+{% endfor %}
 
 <!-- Events content -->
 <section>
