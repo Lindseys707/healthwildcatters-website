@@ -10,8 +10,9 @@ fields:
   name: content_blocks
   label: Content blocks
   template_types:
-  - timely
   - hero
+  - newsletter-signup
   - section-header
+  - timely
 pages:
 - 404.md
