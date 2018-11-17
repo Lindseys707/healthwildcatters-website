@@ -13,7 +13,7 @@ fields:
 - type: text
   name: heading
   label: Heading
-- type: text
+- type: textarea
   name: subheading
   label: Subheading
 - type: file
