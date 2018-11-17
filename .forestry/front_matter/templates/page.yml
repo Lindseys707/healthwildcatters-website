@@ -9,6 +9,8 @@ fields:
 - type: blocks
   name: content_blocks
   label: Content blocks
+  template_types:
+  - hero-section
 pages:
 - home.md
 - 404.md
