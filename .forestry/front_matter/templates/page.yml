@@ -10,6 +10,7 @@ fields:
   name: content_blocks
   label: Content blocks
   template_types:
+  - timely
   - hero
   - section-header
 pages:
