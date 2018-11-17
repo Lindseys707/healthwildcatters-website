@@ -21,14 +21,22 @@ content_blocks:
   heading: Accelerator
   subheading: Yeah, we have an accelerator.
 - template: accelerator-feature
+  block_name: accelerator-feature
 - template: video
+  block_name: video
 - template: section-header
   block_name: section-header
+  heading: Leasing
+  subheading: Yeah, we have office space.
 - template: leasing-feature
+  block_name: leasing-feature
 - template: section-header
   block_name: section-header
+  heading: News
+  subheading: Yeah, we have news.
 - template: newsletter-signup
   block_name: newsletter-signup
 - template: sponsors
+  block_name: sponsors
 
 ---
