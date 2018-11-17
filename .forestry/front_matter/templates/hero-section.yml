@@ -4,7 +4,7 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  name: name
+  name: block_name
   label: Block
   hidden: true
   default: hero
