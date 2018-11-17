@@ -1,0 +1,24 @@
+---
+label: Section header
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: section-header
+- type: text
+  name: heading
+  label: Heading
+- type: text
+  name: subheading
+  label: Subheading
+- type: file
+  name: background_image
+  label: Background image
+- type: text
+  name: image_caption
+  label: Image caption
