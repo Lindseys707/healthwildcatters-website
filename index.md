@@ -24,6 +24,8 @@ content_blocks:
   block_name: accelerator-feature
 - template: video
   block_name: video
+  heading: A cool video goes here
+  subheading: Include some additional text here.
 - template: section-header
   block_name: section-header
   heading: Leasing
@@ -36,6 +38,7 @@ content_blocks:
   subheading: Yeah, we have news.
 - template: newsletter-signup
   block_name: newsletter-signup
+  heading: Never miss an update
 - template: sponsors
   block_name: sponsors
 
