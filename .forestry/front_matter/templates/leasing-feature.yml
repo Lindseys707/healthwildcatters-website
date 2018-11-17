@@ -29,3 +29,13 @@ fields:
   - type: textarea
     name: answer
     label: Answer
+- type: field_group
+  name: call_to_action
+  label: Call to action
+  fields:
+  - type: text
+    name: text
+    label: Text
+  - type: text
+    name: link
+    label: Link
