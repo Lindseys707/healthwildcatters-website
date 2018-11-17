@@ -3,6 +3,13 @@ label: Leasing feature
 hide_body: true
 is_partial: true
 fields:
+- type: text
+  label: Block name
+  name: block_name
+  hidden: true
+  config:
+    required: true
+  default: leasing-feature
 - type: field_group_list
   name: offerings
   label: Offerings
