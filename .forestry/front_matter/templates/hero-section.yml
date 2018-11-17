@@ -4,8 +4,8 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  name: block
-  label: Block
+  name: name
+  label: Name
   hidden: true
   default: hero
   config:
