@@ -4,6 +4,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
+  label: Block name
+  name: block_name
+  default: sponsors
+  hidden: true
+  config:
+    required: true
+- type: text
   name: heading
   label: Heading
 - type: field_group_list
