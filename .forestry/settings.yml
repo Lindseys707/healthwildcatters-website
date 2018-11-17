@@ -10,7 +10,7 @@ sections:
   templates:
   - page
 - type: jekyll-posts
-  label: Posts
+  label: News
   create: all
   templates:
   - post
