@@ -10,7 +10,7 @@ fields:
   name: content_blocks
   label: Content blocks
   template_types:
-  - hero-section
+  - hero
   - section-header
 pages:
 - 404.md

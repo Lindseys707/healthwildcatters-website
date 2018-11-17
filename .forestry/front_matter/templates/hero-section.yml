@@ -1,0 +1,18 @@
+---
+label: Hero
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block
+  hidden: true
+  default: hero
+  config:
+    required: true
+- type: text
+  name: heading
+  label: Heading
+- type: text
+  label: Subheading
+  name: subheading
