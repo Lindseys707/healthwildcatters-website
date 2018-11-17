@@ -20,5 +20,15 @@ content_blocks:
   block_name: section-header
   heading: Accelerator
   subheading: Yeah, we have an accelerator.
+- template: accelerator-feature
+- template: video
+- template: section-header
+  block_name: section-header
+- template: leasing-feature
+- template: section-header
+  block_name: section-header
+- template: newsletter-signup
+  block_name: newsletter-signup
+- template: sponsors
 
 ---
