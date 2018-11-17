@@ -7,7 +7,7 @@ fields:
   name: block
   label: Block
   hidden: true
-  default: block-hero
+  default: hero
   config:
     required: true
 - type: text
