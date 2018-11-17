@@ -1,0 +1,24 @@
+---
+label: Accelerator feature
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  label: Heading
+  name: heading
+- type: field_group_list
+  label: Offerings
+  name: offerings
+  fields:
+  - type: text
+    name: heading
+    label: Heading
+  - type: file
+    name: image
+    label: Image
+  - type: textarea
+    name: subheading
+    label: Subheading
+  - type: text
+    name: link
+    label: Link
