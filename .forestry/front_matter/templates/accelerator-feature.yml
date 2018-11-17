@@ -4,6 +4,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
+  default: accelerator-feature
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+- type: text
   label: Heading
   name: heading
 - type: field_group_list
