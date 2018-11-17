@@ -4,6 +4,11 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
+  name: block
+  label: Block
+  hidden: true
+  default: block-hero
+- type: text
   name: heading
   label: Heading
 - type: text
