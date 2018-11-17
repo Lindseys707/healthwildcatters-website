@@ -18,5 +18,5 @@ fields:
   label: Aside
   description: Show the sidebar / aside
 pages:
-- index.md
+- home.md
 - 404.md
