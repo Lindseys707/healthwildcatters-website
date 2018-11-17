@@ -10,3 +10,6 @@ fields:
   hidden: true
   config:
     required: true
+- type: textarea
+  name: heading
+  label: Heading
