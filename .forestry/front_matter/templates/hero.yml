@@ -13,6 +13,6 @@ fields:
 - type: text
   name: heading
   label: Heading
-- type: text
-  label: Subheading
+- type: textarea
   name: subheading
+  label: Subheading
