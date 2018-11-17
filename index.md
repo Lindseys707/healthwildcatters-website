@@ -12,3 +12,5 @@ content_blocks:
   subheading: Yeah, we have events.
 - template: timely
   block_name: timely
+- template: newsletter-signup
+  block_name: newsletter-signup
