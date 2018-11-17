@@ -1,0 +1,12 @@
+---
+label: Newsletter signup
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  default: newsletter-signup
+  hidden: true
+  config:
+    required: true
