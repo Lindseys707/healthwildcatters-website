@@ -2,10 +2,14 @@
 header:
   - url: /events
     title: Events
+    identifier: events
   - url: /accelerator
     title: Accelerator
+    identifier: accelerator
   - url: /leasing
     title: Leasing
+    identifier: leasing
   - url: /news
     title: News
+    identifier: news
 ---
