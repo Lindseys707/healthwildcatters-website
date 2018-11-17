@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Accelerator
-menus: header
----
+menu:
+  header:
+    weight: 2
 
+---
 Accelerator stuff will go here.

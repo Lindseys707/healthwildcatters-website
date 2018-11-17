@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Leasing
-menus: header
----
+menu:
+  header:
+    weight: 3
 
+---
 Leasing stuff will go here.

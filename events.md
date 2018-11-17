@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Events
-menus: header
----
+menu:
+  header:
+    weight: 1
 
+---
 Events will go here.
