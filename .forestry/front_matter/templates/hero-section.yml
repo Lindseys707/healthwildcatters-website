@@ -8,6 +8,8 @@ fields:
   label: Block
   hidden: true
   default: block-hero
+  config:
+    required: true
 - type: text
   name: heading
   label: Heading
