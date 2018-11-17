@@ -1,0 +1,14 @@
+---
+label: Video
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: heading
+  label: Heading
+- type: textarea
+  name: subheading
+  label: Subheading
+- type: text
+  label: Video source link
+  name: video_src
