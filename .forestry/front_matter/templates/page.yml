@@ -12,5 +12,4 @@ fields:
   template_types:
   - hero-section
 pages:
-- home.md
 - 404.md
