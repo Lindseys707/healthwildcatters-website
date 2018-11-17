@@ -4,6 +4,13 @@ hide_body: true
 is_partial: true
 fields:
 - type: text
+  name: block_name
+  label: Block name
+  config:
+    required: true
+  hidden: true
+  default: video
+- type: text
   name: heading
   label: Heading
 - type: textarea
