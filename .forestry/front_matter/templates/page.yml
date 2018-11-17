@@ -11,5 +11,6 @@ fields:
   label: Content blocks
   template_types:
   - hero-section
+  - section-header
 pages:
 - 404.md
