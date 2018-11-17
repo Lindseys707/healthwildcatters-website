@@ -13,7 +13,6 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jekyll-mentions
-- jekyll-menus
 - jekyll-paginate
 - jekyll-redirect-from
 - jekyll-seo-tag

@@ -1,1 +1,10 @@
---- {}
+---
+header:
+  - url: /events
+    title: Events
+  - url: /accelerator
+    title: Accelerator
+  - url: /leasing
+    title: Leasing
+  - url: /news
+    title: News
