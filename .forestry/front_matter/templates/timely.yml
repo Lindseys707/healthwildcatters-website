@@ -8,3 +8,5 @@ fields:
   label: Block name
   hidden: true
   default: timely
+  config:
+    required: true
