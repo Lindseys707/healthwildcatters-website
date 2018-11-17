@@ -1,0 +1,11 @@
+<div class="collapse navbar-collapse justify-content-end navMenu px-1">
+  <ul class="navbar-nav">
+
+    {% for item in site.menus.header %}
+      <li class="menu-item-{{ loop.index }} nav-item">
+        <a class="nav-link h5" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+
+  </ul>
+</div>
