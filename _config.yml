@@ -3,20 +3,21 @@ theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
-- README.md
 - Gemfile
 - Gemfile.lock
 - vendor
+- README.md
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- jekyll-mentions
+- jekyll-menus
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
 - jemoji
 
 # Site settings
@@ -29,17 +30,6 @@ permalink: pretty
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
-
-# Header nav
-navigation_header:
-  Events: /events/
-  Accelerator: /accelerator/
-  Leasing: /leasing/
-  News: /news/
-
-# Footer nav
-navigation_footer:
-  Back to top: "#top"
 
 # Collections
 collections:
