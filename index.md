@@ -15,6 +15,7 @@ content_blocks:
   block_name: timely
 - template: newsletter-signup
   block_name: newsletter-signup
+  heading: Never miss an update
 - template: section-header
   block_name: section-header
   heading: Accelerator
