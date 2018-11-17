@@ -5,7 +5,7 @@ is_partial: true
 fields:
 - type: text
   name: block_name
-  label: Block
+  label: Block name
   hidden: true
   default: hero
   config:
