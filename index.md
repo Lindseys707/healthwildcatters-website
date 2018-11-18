@@ -75,5 +75,8 @@ content_blocks:
   heading: Never miss an update
 - template: sponsors
   block_name: sponsors
+  heading: Our Sponsors
+  sponsors:
+  - name: American Airlines
 
 ---
