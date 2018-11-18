@@ -19,3 +19,6 @@ fields:
 - type: text
   label: Video source link
   name: video_src
+- type: file
+  name: placeholder_image
+  label: Placeholder image
