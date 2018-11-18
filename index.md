@@ -26,6 +26,8 @@ content_blocks:
   offerings:
   - heading: Resources
     subheading: We have resources
+  - subheading: We have mentoring
+    heading: Mentoring
 - template: video
   block_name: video
   heading: A cool video goes here
