@@ -17,12 +17,12 @@ fields:
   label: Offerings
   name: offerings
   fields:
-  - type: text
-    name: heading
-    label: Heading
   - type: file
     name: image
     label: Image
+  - type: text
+    name: heading
+    label: Heading
   - type: textarea
     name: subheading
     label: Subheading
