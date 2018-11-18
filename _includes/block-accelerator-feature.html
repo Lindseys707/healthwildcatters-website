@@ -9,47 +9,20 @@
 
     <div class="row">
 
+      {% for offering in block.offerings %}
       <div class="col-12 col-md-4 d-md-flex">
         <div class="text-center card">
           <div class="card-body py-4">
             <img src="assets/img/icons/icon07.svg" alt="" class="icon">
             <div>
-              <h5 class="mb-1 mt-2">Resources</h5>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                praesentium voluptatum deleniti.</p> <a href="#">Start exploring</a>
+              <h5 class="mb-1 mt-2">{{ offering.heading }}</h5>
+              <p>{{ offering.subheading }}</p> <a href="{{ offering.link_url }}">{{ offering.link_text }}</a>
 
             </div>
           </div>
         </div>
       </div>
-
-      <div class="col-12 col-md-4 d-md-flex">
-        <div class="text-center card">
-          <div class="card-body py-4">
-            <img src="assets/img/icons/icon89.svg" alt="" class="icon">
-            <div>
-              <h5 class="mb-1 mt-2">Mentoring</h5>
-              <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-                quo minus.</p> <a href="#">Learn more</a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-12 col-md-4 d-md-flex">
-        <div class="text-center card">
-          <div class="card-body py-4">
-            <img src="assets/img/icons/icon06.svg" alt="" class="icon">
-            <div>
-              <h5 class="mb-1 mt-2">Pizza</h5>
-              <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
-                saepe.</p> <a href="#">Get some</a>
-
-            </div>
-          </div>
-        </div>
-      </div>
+      {% endfor %}
 
     </div>
 
