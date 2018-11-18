@@ -1,69 +1,68 @@
 <section class="pt-md-0 mt-minus-3">
   <div class="container">
     <div class="row">
+
+      {% for offering in block.offerings %}
       <div class="col-md-4">
-        <a class="card mb-4 py-3 px-xl-3 shadow-lg hover-effect" href="#">
+        <a class="card mb-4 py-3 px-xl-3 shadow-lg hover-effect" href="{{ offering.link_url }}">
           <div class="card-body">
-            <span class="h6 d-block">Small</span>
-            <span class="d-block display-4 mb-2 text-dark">$100/mo</span>
-            <p>For growing business looking to try the product</p>
-            <span class="btn btn-primary btn-lg">Get started</span>
+            <span class="h6 d-block">{{ offering.heading }}</span>
+            <span class="d-block display-4 mb-2 text-dark">{{ offering.price }}</span>
+            <p>{{ offering.text }}</p>
+            <span class="btn btn-primary btn-lg">{{ offering.link_text }}</span>
           </div>
         </a>
-        <ul>
-          <li class="mb-2">
-            Offering
-          </li>
-          <li class="mb-2">
-            Offering
-          </li>
-          <li class="mb-2">
-            Offering
-          </li>
-        </ul>
       </div>
-      <div class="col-md-4">
-        <a class="card mb-4 py-3 px-xl-3 shadow-lg hover-effect" href="#">
-          <div class="card-body">
-            <span class="h6 d-block">Medium</span>
-            <span class="d-block display-4 mb-2 text-dark">$200/mo</span>
-            <p >For established businesses looking to expand</p>
-            <span class="btn btn-primary btn-lg">Get started</span>
-          </div>
-        </a>
-        <ul>
-          <li class="mb-2">
-            Offering
-          </li>
-          <li class="mb-2">
-            Offering
-          </li>
-          <li class="mb-2">
-            Offering
-          </li>
-        </ul>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
+
+<section class="py-0">
+  <div class="container">
+    <div class="row mb-4 text-center">
+      <div class="col">
+        <span class="h2 d-block">Some commonly asked questions</span>
       </div>
-      <div class="col-md-4">
-        <a class="card mb-4 py-3 px-xl-3 shadow-lg hover-effect" href="#">
-          <div class="card-body">
-            <span class="h6 d-block">Large</span>
-            <span class="d-block display-4 text-dark mb-2">$500/mo</span>
-            <p>For large, multi-location organisations</p>
-            <span class="btn btn-primary btn-lg">Get started</span>
-          </div>
-        </a>
-        <ul>
-          <li class="mb-2">
-            Offering
+    </div>
+  </div>
+</section>
+
+<section class="pt-0">
+  <svg preserveAspectRatio="none" viewBox=" 0 0 100 100" class="bg-triangle bg-triangle-top-left">
+    <polygon fill="#F8F9FB" points="0 100 100 100 100 0"></polygon>
+  </svg>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-8 col-lg-9">
+        <ul class="list-group">
+          {% for item in block.faq %}
+          <li class="list-group-item">
+            <div class="d-flex justify-content-between align-items-center">
+              <a class="d-flex align-items-center flex-fill" href="#" data-toggle="collapse" data-target="#accordion-panel-1">
+                <span class="mb-0 h5 py-2 text-primary mb-0">{{ item.question }}</span>
+              </a>
+              <i class="material-icons d-block text-dark">keyboard_arrow_right</i>
+            </div>
+            <div id="accordion-panel-1" class="collapse">
+              <div class="py-1">
+                {{ item.answer }}
+              </div>
+            </div>
           </li>
-          <li class="mb-2">
-            Offering
-          </li>
-          <li class="mb-2">
-            Offering
-          </li>
+          {% endfor %}
         </ul>
       </div>
     </div>
+
+    {% assign cta = block.call_to_action %}
+    <div class="row justify-content-center mb-4 mt-5">
+      <div class="col col-sm-auto d-md-flex align-items-center text-center">
+        <span class="d-block mr-md-3 mb-md-0 h4 mb-md-0">{{ cta.text }}</span>
+        <a class="btn btn-primary btn-lg" href="{{ call_to_action.link_url }}">{{ cta.link_text }}</a>
+      </div>
+    </div>
+
   </div>
 </section>
