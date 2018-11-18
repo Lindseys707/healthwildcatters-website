@@ -1,0 +1,27 @@
+---
+label: news
+hide_body: true
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: author
+  label: Author
+- type: text
+  name: publication
+  label: Publication
+- type: text
+  name: link
+  label: Link
+- type: file
+  name: image
+  label: Image
+pages:
+- _posts/2018-09-18-health-wildcatters-names-six-startups-of-fall-cohort.md
