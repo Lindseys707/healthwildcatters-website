@@ -22,6 +22,7 @@ content_blocks:
   subheading: Yeah, we have an accelerator.
 - template: accelerator-feature
   block_name: accelerator-feature
+  heading: Here's what we have to offer.
 - template: video
   block_name: video
   heading: A cool video goes here
