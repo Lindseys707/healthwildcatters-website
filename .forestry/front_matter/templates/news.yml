@@ -15,6 +15,9 @@ fields:
   name: author
   label: Author
 - type: text
+  name: publication
+  label: Publication
+- type: text
   name: link
   label: Link
 - type: file
