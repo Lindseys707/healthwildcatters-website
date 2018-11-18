@@ -23,6 +23,3 @@ fields:
   - type: file
     name: image
     label: Image
-  - type: text
-    name: link
-    label: Link
