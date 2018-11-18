@@ -23,6 +23,9 @@ content_blocks:
 - template: accelerator-feature
   block_name: accelerator-feature
   heading: Here's what we have to offer.
+  offerings:
+  - heading: Resources
+    subheading: We have resources
 - template: video
   block_name: video
   heading: A cool video goes here
