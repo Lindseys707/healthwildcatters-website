@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Health Wildcatters
+title: Home
 content_blocks:
 - template: hero
   block_name: hero
