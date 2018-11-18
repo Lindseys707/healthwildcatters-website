@@ -12,7 +12,6 @@ sections:
 - type: jekyll-posts
   label: News
   create: all
-  match: "**/*"
   templates:
   - page
 upload_dir: uploads
