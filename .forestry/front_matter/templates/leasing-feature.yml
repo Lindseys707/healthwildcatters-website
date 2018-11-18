@@ -24,8 +24,11 @@ fields:
     name: price
     label: Price
   - type: text
-    name: link
-    label: Link
+    name: link_text
+    label: Link text
+  - type: text
+    name: link_url
+    label: Link URL
 - type: field_group_list
   name: faq
   label: FAQ
