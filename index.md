@@ -78,5 +78,7 @@ content_blocks:
   heading: Our Sponsors
   sponsors:
   - name: American Airlines
+  - name: Axxess
+  - name: Hall Render
 
 ---
