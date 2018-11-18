@@ -28,6 +28,8 @@ content_blocks:
     subheading: We have resources
   - subheading: We have mentoring
     heading: Mentoring
+  - heading: Pizza
+    subheading: We have pizza
 - template: video
   block_name: video
   heading: A cool video goes here
