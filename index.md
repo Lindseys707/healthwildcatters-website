@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blocks
 title: Home
 content_blocks:
 - template: hero
