@@ -18,14 +18,14 @@ fields:
     name: heading
     label: Heading
   - type: textarea
-    name: subheading
-    label: Subheading
-  - type: text
-    name: link
-    label: Link
+    name: text
+    label: Text
   - type: text
     name: price
     label: Price
+  - type: text
+    name: link
+    label: Link
 - type: field_group_list
   name: faq
   label: FAQ
