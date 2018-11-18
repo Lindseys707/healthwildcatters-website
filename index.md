@@ -43,6 +43,10 @@ content_blocks:
   subheading: Yeah, we have office space.
 - template: leasing-feature
   block_name: leasing-feature
+  offerings:
+  - heading: Small
+  - heading: Medium
+  - heading: Large
 - template: section-header
   block_name: section-header
   heading: News
