@@ -56,6 +56,16 @@ content_blocks:
     text: This is large
     price: "$500/mo"
     link_text: Get started
+  faq:
+  - question: Question 1
+    answer: Answer 1
+  - question: Question 2
+    answer: Answer 2
+  - question: Question 3
+    answer: Answer 3
+  call_to_action:
+    text: Have more questions? Want to take a tour?
+    link_text: Contact us
 - template: section-header
   block_name: section-header
   heading: News
