@@ -27,5 +27,8 @@ fields:
     name: subheading
     label: Subheading
   - type: text
-    name: link
-    label: Link
+    name: link_text
+    label: Link text
+  - type: text
+    label: Link URL
+    name: link_url
