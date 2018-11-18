@@ -9,10 +9,12 @@ sections:
   create: all
   templates:
   - page
-- type: document
-  path: _data/news.yml
+- type: jekyll-posts
   label: News
+  create: all
   match: "**/*"
+  templates:
+  - page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
