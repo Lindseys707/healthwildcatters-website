@@ -45,6 +45,9 @@ content_blocks:
   block_name: leasing-feature
   offerings:
   - heading: Small
+    text: This is small
+    price: "$100/mo"
+    link_text: Get started
   - heading: Medium
   - heading: Large
 - template: section-header
