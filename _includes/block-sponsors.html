@@ -3,41 +3,18 @@
 
     <div class="row text-center mb-5">
       <div class="col">
-        <span class="h2 d-block">Our sponsors</span>
+        <span class="h2 d-block">{{ block.heading }}</span>
       </div>
     </div>
 
     <div class="row justify-content-around">
 
+      {% for sponsor in block.sponsors %}
       <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-amazon.svg"
-        alt="Amazon">
+        <img class="icon icon-sm text-dark opacity-50" src="/assets/img/icons/icon07.svg"
+        alt="{{ block.name }}">
       </div>
-
-      <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-volkswagen.svg"
-        alt="Volkswagen">
-      </div>
-
-      <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-coca-cola.svg"
-        alt="Coca Cola">
-      </div>
-
-      <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-netflix.svg"
-        alt="Netflix">
-      </div>
-
-      <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-apple.svg"
-        alt="Apple">
-      </div>
-
-      <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="assets/img/logo-spotify.svg"
-        alt="Spotify">
-      </div>
+      {% endfor %}
 
     </div>
 
