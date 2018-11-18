@@ -49,7 +49,13 @@ content_blocks:
     price: "$100/mo"
     link_text: Get started
   - heading: Medium
+    text: This is medium
+    price: "$200/mo"
+    link_text: Get started
   - heading: Large
+    text: This is large
+    price: "$500/mo"
+    link_text: Get started
 - template: section-header
   block_name: section-header
   heading: News
