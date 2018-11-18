@@ -24,8 +24,8 @@ fields:
     name: heading
     label: Heading
   - type: textarea
-    name: subheading
-    label: Subheading
+    name: text
+    label: Text
   - type: text
     name: link_text
     label: Link text

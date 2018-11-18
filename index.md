@@ -25,13 +25,13 @@ content_blocks:
   heading: Here's what we have to offer.
   offerings:
   - heading: Resources
-    subheading: We have resources
+    text: We have resources
     link_text: Start exploring
-  - subheading: We have mentoring
-    heading: Mentoring
+  - heading: Mentoring
+    text: We have mentoring
     link_text: Learn more
   - heading: Pizza
-    subheading: We have pizza
+    text: We have pizza
     link_text: Get some
 - template: video
   block_name: video
