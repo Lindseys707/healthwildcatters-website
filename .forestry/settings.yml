@@ -13,7 +13,7 @@ sections:
   label: News
   create: all
   templates:
-  - page
+  - news
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
