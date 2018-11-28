@@ -22,7 +22,8 @@ content_blocks:
 - template: section-header
   block_name: section-header
   heading: Accelerator
-  subheading: Yeah, we have an accelerator.
+  subheading: Ready to take your startup to the next level? Learn more about our nationally-ranked
+    healthcare accelerator program and apply to be a member of our next cohort.
 - template: accelerator-feature
   block_name: accelerator-feature
   heading: Here's what we have to offer.
@@ -43,7 +44,10 @@ content_blocks:
 - template: section-header
   block_name: section-header
   heading: Leasing
-  subheading: Yeah, we have office space.
+  subheading: Every entrepreneur knows there are more opportunities where the action
+    happens. Health Wildcatters boasts over 17,000 sqf. of leasable office space for
+    health startups right at the center of the premier health innovation hub in North
+    Texas.
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
