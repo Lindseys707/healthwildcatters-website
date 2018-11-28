@@ -10,7 +10,10 @@ content_blocks:
 - template: section-header
   block_name: section-header
   heading: Events
-  subheading: Yeah, we have events.
+  subheading: Health Wildcatters offers you opportunities to network, collaborate
+    and innovate with the healthcare community in North Texas and beyond. For a full
+    listing of upcoming events click on the events tab above or register for our upcoming
+    events below.
 - template: timely
   block_name: timely
 - template: newsletter-signup
