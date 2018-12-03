@@ -25,6 +25,7 @@ content_blocks:
   heading: Accelerator
   subheading: Ready to take your startup to the next level? Learn more about our nationally-ranked
     healthcare accelerator program and apply to be a member of our next cohort.
+  slug: accelerator
 - template: accelerator-feature
   block_name: accelerator-feature
   heading: Here's what we have to offer.
