@@ -1,4 +1,4 @@
-<section class="bg-dark">
+<section {% if block.slug %}id="{{ block.slug }}"{% endif %} class="bg-dark">
   <img src="{{ block.background_image | relative_url }}" alt="{{ block.image_caption }}" class="bg-image opacity-50">
   <div class="container height-lg-30">
     <div class="row">
