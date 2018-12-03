@@ -3,7 +3,11 @@
     <div class="row justify-content-center">
       <div class="col-xl-9 col-lg-10">
 
+        {% if block.heading %}
         <span class="d-block h3">{{ block.heading }}</span>
+        {% else %}
+        <span class="d-block h3">Never miss an update</span>
+        {% endif %}
 
         <form class="row align-items-center mb-2">
 
