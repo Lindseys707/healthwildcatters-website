@@ -50,6 +50,7 @@ content_blocks:
     happens. Health Wildcatters boasts over 17,000 sqf. of leasable office space for
     health startups right at the center of the premier health innovation hub in North
     Texas.
+  slug: leasing
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
