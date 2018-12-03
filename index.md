@@ -14,6 +14,7 @@ content_blocks:
     and innovate with the healthcare community in North Texas and beyond. For a full
     listing of upcoming events click on the events tab above or register for our upcoming
     events below.
+  slug: events
 - template: timely
   block_name: timely
 - template: newsletter-signup
