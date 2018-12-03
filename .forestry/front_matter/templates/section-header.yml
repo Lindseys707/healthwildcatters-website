@@ -23,3 +23,6 @@ fields:
 - type: text
   name: image_caption
   label: Image caption
+- type: text
+  name: slug
+  label: Slug
