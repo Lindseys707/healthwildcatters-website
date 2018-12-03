@@ -82,6 +82,7 @@ content_blocks:
   subheading: Catch up on the latest news from Health Wildcatters and our alumni,
     mentors and friends as they continue to bring the latest and greatest innovations
     to healthcare.
+  slug: news
 - template: newsletter-signup
   block_name: newsletter-signup
   heading: Never miss an update
