@@ -1,8 +1,12 @@
-/* 
-/* 
+/*
+/*
 /*  custom.css
 /*
 /*  If not using Gulp and Sass, add your custom CSS below then include it
 /*  in your page by adding a reference to assets/css/custom.css in the head of each page.
 /*
 */
+
+.mt-minus-05 {
+  margin-top: -.5rem;
+}
