@@ -3,25 +3,14 @@
   <div class="container height-lg-30">
     <div class="row">
       <div class="col-md-8 col-lg-7 col-xl-6">
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb p-0 bg-dark bg-transparent">
-            <li class="breadcrumb-item">
-              <a class="text-white" href="index.html">Overview</a>
-            </li>
-            <li class="breadcrumb-item">
-              <a class="text-white" href="pages-inner.html">Inner Pages</a>
-            </li>
-            <li class="breadcrumb-item active text-white" aria-current="page">
-              Services
-            </li>
-          </ol>
-        </nav>
         <h1 class="display-4 text-white">
-          Services
+          {{ page.title }}
         </h1>
+        {% if page.subheading %}
         <p class="lead mb-0 text-white">
-          Introduce your company's service offerings with these attractive service pages.
+          {{ page.subheading }}
         </p>
+        {% endif %}
       </div>
     </div>
   </div>

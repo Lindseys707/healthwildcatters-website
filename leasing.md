@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Leasing
+subheading: This is a subheading
 menu:
   header:
     weight: 3
