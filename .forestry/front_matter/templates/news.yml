@@ -23,3 +23,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _news/health-wildcatters-releases-its-fall-2018-cohort.md
