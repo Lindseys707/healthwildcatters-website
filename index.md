@@ -84,6 +84,8 @@ content_blocks:
     mentors and friends as they continue to bring the latest and greatest innovations
     to healthcare.
   slug: news
+- template: news-feature
+  block_name: news-feature
 - template: newsletter-signup
   block_name: newsletter-signup
   heading: Never miss an update
