@@ -15,6 +15,7 @@ content_blocks:
     listing of upcoming events click on the events tab above or register for our upcoming
     events below.
   slug: events
+  background_image: "/v1543940452/header-9.jpg"
 - template: timely
   block_name: timely
 - template: newsletter-signup
