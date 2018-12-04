@@ -21,8 +21,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.healthwildcatters.com'
 baseurl: ''
 title: 'Health Wildcatters'
 description: ''
 permalink: pretty
+cloudinaryurl: 'https://res.cloudinary.com/health-wildcatters/image/upload'
