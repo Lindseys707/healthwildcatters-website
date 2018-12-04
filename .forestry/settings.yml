@@ -4,16 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _news
+  label: News
+  create: all
+  match: "**/*"
+  templates:
+  - news
 - type: jekyll-pages
   label: Pages
   create: all
   templates:
   - page
-- type: jekyll-posts
-  label: News
-  create: all
-  templates:
-  - news
 upload_dir: ''
 public_path: https://res.cloudinary.com/health-wildcatters/image/upload
 front_matter_path: ''

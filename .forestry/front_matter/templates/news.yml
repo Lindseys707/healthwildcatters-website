@@ -23,5 +23,3 @@ fields:
 - type: file
   name: image
   label: Image
-pages:
-- _posts/2018-09-18-health-wildcatters-names-six-startups-of-fall-cohort.md
