@@ -1,0 +1,12 @@
+---
+label: News Feature
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: news-feature
