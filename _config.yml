@@ -27,3 +27,6 @@ title: 'Health Wildcatters'
 description: ''
 permalink: pretty
 cloudinaryurl: 'https://res.cloudinary.com/health-wildcatters/image/upload'
+
+collections:
+  - news
