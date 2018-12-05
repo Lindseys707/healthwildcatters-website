@@ -15,6 +15,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - blocks
   - page
 upload_dir: ''
 public_path: https://res.cloudinary.com/health-wildcatters/image/upload
