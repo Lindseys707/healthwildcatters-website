@@ -9,6 +9,7 @@ fields:
   config:
     required: true
   default: page
+  hidden: true
 - type: textarea
   name: subheading
   label: Subheading
