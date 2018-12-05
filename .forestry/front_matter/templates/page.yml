@@ -1,10 +1,23 @@
 ---
-label: Page
-hide_body: false
+label: Blocks
+hide_body: true
 is_partial: false
 fields:
 - type: text
   name: title
   label: Title
+- type: blocks
+  name: content_blocks
+  label: Content blocks
+  template_types:
+  - accelerator-feature
+  - hero
+  - leasing-feature
+  - news-feature
+  - newsletter-signup
+  - section-header
+  - sponsors
+  - timely
+  - video
 pages:
 - 404.md
