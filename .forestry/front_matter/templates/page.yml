@@ -1,21 +1,19 @@
 ---
-label: Blocks
-hide_body: true
+label: Page
+hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: title
-  label: Title
-- type: blocks
-  name: content_blocks
-  label: Content blocks
-  template_types:
-  - accelerator-feature
-  - hero
-  - leasing-feature
-  - news-feature
-  - newsletter-signup
-  - section-header
-  - sponsors
-  - timely
-  - video
+  name: layout
+  label: Layout
+  default: page
+  hidden: true
+  config:
+    required: true
+- type: textarea
+  name: subheading
+  label: Subheading
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
