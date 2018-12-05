@@ -22,6 +22,9 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+- type: file
+  name: header_image
+  label: Header image
 pages:
 - 404.md
 - events.md
