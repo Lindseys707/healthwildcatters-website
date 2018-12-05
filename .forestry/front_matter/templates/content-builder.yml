@@ -1,8 +1,0 @@
----
-label: Content Builder
-hide_body: true
-is_partial: false
-fields:
-- type: blocks
-  name: content_blocks
-  label: Content Blocks
