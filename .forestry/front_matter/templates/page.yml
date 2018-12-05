@@ -24,3 +24,4 @@ fields:
       format: markdown
 pages:
 - 404.md
+- events.md
