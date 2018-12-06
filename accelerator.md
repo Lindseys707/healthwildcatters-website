@@ -37,8 +37,7 @@ content_blocks:
   block_name: section-header
   heading: Mentors
   slug: mentors
-- template: people
-  block_name: people
-  group: mentors
+- template: mentors
+  block_name: mentors
 
 ---
