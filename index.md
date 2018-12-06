@@ -71,10 +71,10 @@ content_blocks:
     link_text: Get started
   - heading: Large
     text: This is large
-    price: "$999+/mo"
+    price: "$999/mo"
     link_text: Get started
   faq:
-  - question: Question 1
+  - question: ''
     answer: Answer 1
   - question: Question 2
     answer: Answer 2
