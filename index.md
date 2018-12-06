@@ -78,8 +78,9 @@ content_blocks:
     answer: 'In an effort to keep Health Wildcatters as the health innovation hub
       of North Texas, we lease space to health focused startups and companies, along
       with service providers and consultants in the healthcare or startup space. '
-  - question: Question 2
-    answer: Answer 2
+  - question: Is parking provided?
+    answer: 'Parking is not provided in the building, but there are multiple lots
+      and garages in the surrounding areas with daily fees and/or monthly memberships.  '
   - question: Question 3
     answer: Answer 3
   call_to_action:
