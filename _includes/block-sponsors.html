@@ -1,18 +1,18 @@
-<section class="mb-4">
+<section class="mb-5">
   <div class="container">
 
     <div class="row text-center mb-5">
       <div class="col">
-        <span class="h2 d-block">{{ block.heading }}</span>
+        <span class="h2 d-block">Our Sponsors</span>
       </div>
     </div>
 
     <div class="row justify-content-around">
 
-      {% for sponsor in block.sponsors %}
+      {% for sponsor in site.sponsors %}
       <div class="col-6 col-lg col-md-2 mb-4 mb-sm-0 d-flex justify-content-center">
-        <img class="icon icon-sm text-dark opacity-50" src="/assets/img/icons/icon07.svg"
-        alt="{{ block.name }}">
+        <img class="icon icon-lg text-dark" src="{{ sponsor.logo }}"
+        alt="{{ sponsor.title }}">
       </div>
       {% endfor %}
 
