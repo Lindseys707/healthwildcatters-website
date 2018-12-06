@@ -1,6 +1,6 @@
 ---
-title: David Albert, M.D.
-date: 2018-12-06 11:55:35 -0600
+title: David Albert, MD
+date: 2018-12-06 17:55:35 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544119234/David-Albert.jpg
 link_1: ''
