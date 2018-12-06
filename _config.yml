@@ -29,4 +29,8 @@ permalink: pretty
 cloudinaryurl: 'https://res.cloudinary.com/health-wildcatters/image/upload'
 
 collections:
+  - co-founders
+  - mentors
   - news
+  - sponsors
+  - staff
