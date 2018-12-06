@@ -45,7 +45,7 @@ content_blocks:
     text: 'The Health Wildcatters program will make your startup credible, visible
       and accessible to investors spanning the globe to close fundraising rounds and
       propel growth. '
-    link_text: Get some
+    link_text: Learn More
 - template: video
   block_name: video
   heading: A cool video goes here
