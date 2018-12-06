@@ -1,0 +1,17 @@
+---
+label: People
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: Block name
+  name: block_name
+  hidden: true
+  config:
+    required: true
+  default: people
+- type: text
+  name: group
+  label: Group
+  config:
+    required: true
