@@ -74,6 +74,11 @@ content_blocks:
     price: "$999/mo"
     link_text: Get started
   faq:
+  - question: Do I need to be an alumni to lease an office?
+    answer: 'Absolutely not! Leasing space is open to all healthcare companies and
+      startups. In an effort to keep Health Wildcatters as the health innovation hub
+      of North Texas, we lease space to health focused startups and companies, along
+      with service providers and consultants in the healthcare or startup space. '
   - question: 'Are offices available for non healthcare companies? '
     answer: 'In an effort to keep Health Wildcatters as the health innovation hub
       of North Texas, we lease space to health focused startups and companies, along
@@ -81,9 +86,6 @@ content_blocks:
   - question: Is parking provided?
     answer: 'Parking is not provided in the building, but there are multiple lots
       and garages in the surrounding areas with daily fees and/or monthly memberships.  '
-  - question: Do I need to be an alumni to lease an office?
-    answer: Absolutely not! Leasing space is open to all healthcare companies and
-      startups
   call_to_action:
     text: Have more questions? Want to take a tour?
     link_text: Contact us
