@@ -23,5 +23,8 @@ fields:
 - type: text
   name: link_4
   label: Link 4
+- type: file
+  label: Photo
+  name: photo
 pages:
 - _mentors/david-albert-m-d.md
