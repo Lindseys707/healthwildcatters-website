@@ -35,7 +35,7 @@ content_blocks:
     text: From American Airlines Business Extra Points to legal assistance to hosting
       your database, our supporters align with resources to assist with your current
       stage of growth.
-    link_text: Start exploring
+    link_text: Learn More
   - heading: Mentoring
     text: Hundreds of mentors are ready and willing to provide insight and counsel
       gleaned from their own experiences and practice areas to guide startups in the
