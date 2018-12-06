@@ -10,15 +10,6 @@ fields:
   config:
     required: true
   default: blocks
-- type: text
-  name: title
-  label: Title
-- type: textarea
-  name: subheading
-  label: Subheading
-- type: file
-  name: header_image
-  label: Header image
 - type: blocks
   name: content_blocks
   label: Content blocks
