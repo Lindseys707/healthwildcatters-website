@@ -41,8 +41,9 @@ content_blocks:
       gleaned from their own experiences and practice areas to guide startups in the
       program from launch to success.
     link_text: Learn more
-  - heading: Pizza
-    text: We have pizza
+  - heading: Investors
+    text: 'The Health Wildcatters program will make your startup credible, visible
+      and accessible to investors spanning the globe. '
     link_text: Get some
 - template: video
   block_name: video
