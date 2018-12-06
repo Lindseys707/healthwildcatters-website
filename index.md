@@ -31,8 +31,10 @@ content_blocks:
   block_name: accelerator-feature
   heading: Here's what we have to offer.
   offerings:
-  - heading: Resources
-    text: We have resources
+  - heading: Perks
+    text: From American Airlines Business Extra Points to legal assistance to hosting
+      your database, our supporters align with resources to assist with your current
+      stage of growth.
     link_text: Start exploring
   - heading: Mentoring
     text: We have mentoring
