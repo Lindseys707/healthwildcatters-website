@@ -33,3 +33,5 @@ fields:
   - text
   - timely
   - video
+pages:
+- accelerator.md
