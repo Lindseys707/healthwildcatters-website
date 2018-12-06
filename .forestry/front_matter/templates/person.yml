@@ -27,8 +27,8 @@ fields:
   name: link_4
   label: Link 4
 pages:
-- _mentors/william-paiva.md
 - _mentors/nick-pauleit.md
+- _mentors/william-paiva.md
 - _mentors/david-albert-m-d.md
 - _mentors/david-amor.md
 - _mentors/dennis-dayman.md
