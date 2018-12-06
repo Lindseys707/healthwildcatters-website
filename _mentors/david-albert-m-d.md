@@ -1,13 +1,12 @@
 ---
 title: David Albert, M.D.
 date: 2018-12-06 11:55:35 -0600
-name: David Albert, M.D.
+description: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544119234/David-Albert.jpg
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544119234/David-Albert.jpg
 
 ---
 David E. Albert, MD, an Oklahoma native, is a physician, inventor and serial entrepreneur who has developed medical and other life-saving technologies and products over the last 30 years, turning a number of those innovations into tech startups. Today, he is a founder of three technology companies, InnovAlarm, Lifetone Technology and AliveCor. His previous startups include Corazonix Corp (sold to Arrhythmia Research Technology) and Data Critical (sold to GE). Dr. Albert left GE in 2004 as Chief Scientist of GE Cardiology to disrupt several new markets.
