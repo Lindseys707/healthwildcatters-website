@@ -5,13 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _sponsors
-  label: Sponsors
-  create: all
-  match: "**/*"
-  templates:
-  - company-organization
-- type: directory
   path: _co-founders
   label: Co-founders
   create: all
@@ -32,6 +25,13 @@ sections:
   match: "**/*"
   templates:
   - news
+- type: directory
+  path: _sponsors
+  label: Sponsors
+  create: all
+  match: "**/*"
+  templates:
+  - company-organization
 - type: directory
   path: _staff
   label: Staff
