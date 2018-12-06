@@ -6,5 +6,8 @@ content_blocks:
 - template: section-header
   block_name: section-header
   heading: About
+menu:
+  header:
+    weight: 5
 
 ---
