@@ -9,6 +9,8 @@ sections:
   label: Mentors
   create: all
   match: "**/*"
+  templates:
+  - person
 - type: directory
   path: _news
   label: News
