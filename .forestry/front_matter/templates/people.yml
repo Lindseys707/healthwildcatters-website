@@ -2,6 +2,7 @@
 label: People
 hide_body: false
 is_partial: true
+display_field: group
 fields:
 - type: text
   label: Block name
