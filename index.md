@@ -66,8 +66,8 @@ content_blocks:
     price: "$699/mo"
     link_text: Get started
   - heading: Medium
-    text: This is medium
-    price: "$200/mo"
+    text: 1-2 people
+    price: "$699/mo"
     link_text: Get started
   - heading: Large
     text: This is large
