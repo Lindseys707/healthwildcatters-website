@@ -79,10 +79,9 @@ content_blocks:
       startups. In an effort to keep Health Wildcatters as the health innovation hub
       of North Texas, we lease space to health focused startups and companies, along
       with service providers and consultants in the healthcare or startup space. '
-  - question: 'Are offices available for non healthcare companies? '
-    answer: 'In an effort to keep Health Wildcatters as the health innovation hub
-      of North Texas, we lease space to health focused startups and companies, along
-      with service providers and consultants in the healthcare or startup space. '
+  - question: 'Are offices furnished? '
+    answer: 'Yes, all of our offices are come furnished with a desk, chair and rolling
+      storage cart. '
   - question: Is parking provided?
     answer: 'Parking is not provided in the building, but there are multiple lots
       and garages in the surrounding areas with daily fees and/or monthly memberships.  '
