@@ -74,8 +74,10 @@ content_blocks:
     price: "$999/mo"
     link_text: Get started
   faq:
-  - question: ''
-    answer: Answer 1
+  - question: 'Are offices available for non healthcare companies? '
+    answer: 'In an effort to keep Health Wildcatters as the health innovation hub
+      of North Texas, we lease space to health focused startups and companies, along
+      with service providers and consultants in the healthcare or startup space. '
   - question: Question 2
     answer: Answer 2
   - question: Question 3
