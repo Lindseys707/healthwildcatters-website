@@ -4,6 +4,10 @@ title: Accelerator
 subheading: Accelerator your startup with a nationally-ranked program.
 header_image: ''
 content_blocks:
+- template: section-header
+  block_name: section-header
+  heading: Accelerator
+  subheading: Accelerator your startup with a nationally-ranked program.
 - template: text
   block_name: text
   text: |-
