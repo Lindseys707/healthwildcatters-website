@@ -2,7 +2,7 @@
 title: David Amor
 date: 2018-12-06 14:49:19 -0600
 description: ''
-photo: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130779/image.png
 link_1: ''
 link_2: ''
 link_3: ''
