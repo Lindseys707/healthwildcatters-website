@@ -2,7 +2,7 @@
 label: Text
 hide_body: false
 is_partial: true
-display_field: block_name
+display_field: text
 fields:
 - type: text
   label: Block name
