@@ -15,11 +15,12 @@ fields:
   label: Content blocks
   template_types:
   - accelerator-feature
+  - co-founders
   - hero
   - leasing-feature
+  - mentors
   - news-feature
   - newsletter-signup
-  - people
   - section-header
   - sponsors
   - text
