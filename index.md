@@ -61,9 +61,9 @@ content_blocks:
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
-  - heading: Small
-    text: This is small
-    price: "$100/mo"
+  - heading: Single
+    text: 1 person
+    price: "$699/mo"
     link_text: Get started
   - heading: Medium
     text: This is medium
