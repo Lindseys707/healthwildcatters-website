@@ -1,0 +1,12 @@
+---
+label: Mentors
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: mentors
