@@ -26,15 +26,18 @@ content_blocks:
     opportunities.</p><p><strong>When </strong><br>The 12- week fall program begins
     late August and ends in the beginning of November, and for the first time, in
     2019 Health Wildcatters is introducing a 9-week spring program which will begin
-    in February. <br><br><strong>Terms</strong><br>The terms for the Health Wildcatters
-    program are in alignment with industry standards and what you’ll find at most
-    accelerators. We offer $30,000 for eight percent equity and opportunities for
-    follow on and convertible note investments to a total maximum investment of $380k.
-    </p><p><strong>Mentors</strong><br>The Health Wildcatters mentor network is vast
-    and comprised of well over 200 individuals spanning the healthcare industry, professional
-    services and many other verticals. During the accelerator, startups are connected
-    to this mentor network who in turn provide advice and counsel as well as open
-    up their own personal networks to propel your business forward.</p>"
+    in February. </p><ul><li><p>Spring 2019 Program | Begins Feb. 18, 2019 | Applications
+    close Dec. 31, 2018</p></li><li><p>Fall 2019 Program | Begins Aug. 26, 2019 |
+    Applications close May 31, 2019</p><p></p></li></ul><p><strong>Terms</strong><br>The
+    terms for the Health Wildcatters program are in alignment with industry standards
+    and what you’ll find at most accelerators. We offer $30,000 for eight percent
+    equity and opportunities for follow on and convertible note investments to a total
+    maximum investment of $380k. </p><p><strong>Mentors</strong><br>The Health Wildcatters
+    mentor network is vast and comprised of well over 200 individuals spanning the
+    healthcare industry, professional services and many other verticals. During the
+    accelerator, startups are connected to this mentor network who in turn provide
+    advice and counsel as well as open up their own personal networks to propel your
+    business forward.</p>"
 - template: section-header
   block_name: section-header
   heading: Mentors
