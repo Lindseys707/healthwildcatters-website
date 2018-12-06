@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/william-paiva.md
 - _mentors/david-albert-m-d.md
 - _mentors/david-amor.md
 - _mentors/dennis-dayman.md
@@ -124,7 +125,6 @@ pages:
 - _mentors/sarosh-nayar.md
 - _mentors/frank-mceachern.md
 - _mentors/jon-mertz.md
-- _mentors/william-paiva.md
 - _mentors/cortney-nicolato.md
 - _mentors/david-orlandella.md
 - _mentors/jay-oyakawa.md
