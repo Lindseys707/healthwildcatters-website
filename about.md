@@ -6,6 +6,9 @@ content_blocks:
 - template: section-header
   block_name: section-header
   heading: About
+- template: text
+  block_name: text
+  text: "<p>Here's a little about us</p>"
 menu:
   header:
     weight: 5
