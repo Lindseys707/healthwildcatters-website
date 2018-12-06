@@ -74,12 +74,12 @@ content_blocks:
     price: "$999/mo"
     link_text: Get started
   faq:
-  - question: Do I need to be an alumni to lease an office?
+  - question: Do I need to be an HW alumni to lease office space?
     answer: 'Absolutely not! Leasing space is open to all healthcare companies and
       startups. In an effort to keep Health Wildcatters as the health innovation hub
       of North Texas, we lease space to health focused startups and companies, along
       with service providers and consultants in the healthcare or startup space. '
-  - question: 'Are offices furnished? '
+  - question: 'Are the offices furnished? '
     answer: 'Yes, all of our offices are come furnished with a desk, chair and rolling
       storage cart. '
   - question: Is parking provided?
