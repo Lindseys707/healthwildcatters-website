@@ -2,6 +2,9 @@
 title: About
 layout: blocks
 date: 2018-12-06 13:26:32 -0600
-published: false
+content_blocks:
+- template: section-header
+  block_name: section-header
+  heading: About
 
 ---
