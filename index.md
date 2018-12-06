@@ -37,7 +37,9 @@ content_blocks:
       stage of growth.
     link_text: Start exploring
   - heading: Mentoring
-    text: We have mentoring
+    text: Hundreds of mentors are ready and willing to provide insight and counsel
+      gleaned from their own experiences and practice areas to guide startups in the
+      program from launch to success.
     link_text: Learn more
   - heading: Pizza
     text: We have pizza
