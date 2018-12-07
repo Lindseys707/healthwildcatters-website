@@ -1,13 +1,12 @@
 ---
 title: Jeff Haithcock
-date: 2018-12-06 15:57:59 -0600
+date: 2018-12-06 21:57:59 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133498/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Jeffrey A. Haithcock, MD is a full-time practicing interventional neuroradiologist in the Dallas area, currently serving as Chief Medical Information Officer (CMIO) for his sub-specialized radiology practice of 60+ physicians. He also holds a faculty appointment as Clinical Assistant Professor of Radiology at Texas A&M Health Science Center.
