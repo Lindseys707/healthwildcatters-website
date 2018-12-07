@@ -1,13 +1,12 @@
 ---
 title: Jay Bhaumik
-date: 2018-12-06 15:16:37 -0600
+date: 2018-12-06 21:16:37 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131023/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Jay is the founder of auNext which provides innovative healthcare technology solutions in Clinical Research, Oncology, Pharmacy, Data Science and Clinical Analytics. auNext’s clients include Duke University, UCLA, Cedars Sinai, UNC and many other academic hospitals.
