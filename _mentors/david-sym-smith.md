@@ -1,13 +1,12 @@
 ---
 title: David Sym-Smith
-date: 2018-12-07 10:14:01 -0600
+date: 2018-12-07 16:14:01 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199267/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 **David Sym-Smith,** is a **Partner** at **Mobility Ventures** and served as **Interim CEO** at **IndoTraq** who has developed the fastest and most precise wireless indoor 3D tracking system.  David is a 25 year mobile industry veteran and has a solid record of building multimillion dollar operations from scratch along with profitable exits.  
