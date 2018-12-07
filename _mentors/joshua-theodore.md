@@ -1,13 +1,12 @@
 ---
 title: Joshua Theodore
-date: 2018-12-07 10:19:05 -0600
+date: 2018-12-07 16:19:05 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199563/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mr. Theodore is Vice President of Global Health at LEO A DALY, a top-ranked multi-disciplinary strategic consulting, advisory, architectural and engineering firm. Through design thinking, Joshua seeks to transform lives and enrich the human spirit. From strategy and planning, to marketing and branding, to architectural and engineering implementation, Mr. Theodore transforms perspectives and inspires others. Joshua focuses much of his time on building networks, creating a vision to improve market sector delivery, and engaging the right resources to support sustainable growth.
