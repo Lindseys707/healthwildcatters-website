@@ -1,13 +1,12 @@
 ---
 title: Tim Thomasson
-date: 2018-12-07 10:19:38 -0600
+date: 2018-12-07 16:19:38 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199596/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 _Senior Vice President, Information Technology, Chief Information Officer_
