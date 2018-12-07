@@ -5,6 +5,5 @@ author: ''
 publication: ''
 link: https://dallasinnovates.com/5-health-trends-eyes-2017/
 image: ''
-published: false
 
 ---
