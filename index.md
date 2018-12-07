@@ -70,7 +70,7 @@ content_blocks:
     price: "$699/mo"
     link_text: Get started
   - heading: Large
-    text: This is large
+    text: 1-3 people
     price: "$999/mo"
     link_text: Get started
   faq:
