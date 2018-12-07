@@ -1,13 +1,12 @@
 ---
 title: 'Juliana Garaizer '
-date: 2018-12-06 15:52:50 -0600
+date: 2018-12-06 21:52:50 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133188/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Juliana is the Managing Director Houston Angel Network (most active US network in 2016), Senior Advisor of the Portfolia Consumer Fund and Rising Tide Fund, Investment Committee Member of the Texas Medical Center fund and a Kauffman Fellow. Juliana was the Manager of the Sophia Business Angels network (best European network in 2010) and of Antipolis Innovation Campus, the Business Innovation Centre in in the French Riviera, as well as Project Manager of several International Projects funded by the European Commission. Previously, Juliana worked for 5 years in Singapore: first as an International Trade Consultant for the Trade Commission of Spain in a broad range of industry sectors and then as a Project Manager for the Asia Technology Office of Citigroup, leading projects at international level in Europe, Latin America and Japan. 
