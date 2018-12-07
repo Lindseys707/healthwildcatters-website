@@ -1,8 +1,8 @@
 ---
-title: Cain McClary***
+title: Cain McClary
 date: 2018-12-06 16:18:52 -0600
 description: ''
-photo: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544200026/image.png
 link_1: ''
 link_2: ''
 link_3: ''
