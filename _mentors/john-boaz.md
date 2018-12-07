@@ -1,13 +1,12 @@
 ---
 title: John Boaz
-date: 2018-12-06 15:21:04 -0600
+date: 2018-12-06 21:21:04 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131286/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mr. Boaz founded McKinney Assisted Living in 1998 and Reliant Home Health in 2004.  He currently serves as Chairman and CEO of both companies while maintaining an active role in the Dallas startup community.  He is a board member of the National Foundation for Teaching Entrepreneurship (NFTE), Allen Foundation, and most recently accepted a board position at Helping Restore Ability (non-profit serving low income seniors).
