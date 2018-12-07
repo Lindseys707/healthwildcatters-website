@@ -1,13 +1,12 @@
 ---
 title: Michael Cope
-date: 2018-12-06 15:32:49 -0600
+date: 2018-12-06 21:32:49 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131992/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Michael Cope is founder and retired CEO and Chairman of Interphase Corporation, a Dallas computer hardware manufacturer.  After founding Interphase in 1974, Michael established it as the preeminent player in its market niche, lead it through a successful IPO in 1984 and a secondary public offering in 1991, as well as a strategic investment by Motorola.  During his 20 year tenure,  Interphase grew from a self-funded Dallas startup to a public technology company with over 350 employees and an international presence,  was named to the INC 500, the INC 200, the  FORBES 200 Best Run Small Companies in America and Mike was twice honored as an Entrepreneur-of-the-Year finalist.  Today Interphase is still an independent public company.
