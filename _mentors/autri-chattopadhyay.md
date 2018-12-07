@@ -1,8 +1,8 @@
 ---
-title: Autri Chattopadhyay***
+title: Autri Chattopadhyay
 date: 2018-12-06 15:25:35 -0600
 description: ''
-photo: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544200057/image.png
 link_1: ''
 link_2: ''
 link_3: ''
