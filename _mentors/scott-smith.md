@@ -1,13 +1,12 @@
 ---
 title: Scott Smith
-date: 2018-12-07 10:01:00 -0600
+date: 2018-12-07 16:01:00 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198483/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Scott Smith is the founder, CEO and Chairman of the Board of Directors of Socrates Health Solutions, a company committed to applying innovative technology in order to provide affordable healthcare and fitness products. In this role, Smith has secured investment capital, recruited a world class Board of Directors with healthcare experience, and attracted a stellar executive team. Building on 20+ years of healthcare technology experience, he has driven the development of Socrates’ proprietary technology solutions for non-invasive glucose monitoring, including research and development, international patent filings and approvals, and collaboration with global companies.
