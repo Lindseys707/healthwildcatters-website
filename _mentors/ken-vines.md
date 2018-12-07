@@ -1,13 +1,12 @@
 ---
 title: Ken Vines
-date: 2018-12-07 10:21:54 -0600
+date: 2018-12-07 16:21:54 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199734/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Native Texan
