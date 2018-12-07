@@ -1,13 +1,12 @@
 ---
 title: Jim Janicki
-date: 2018-12-06 16:07:29 -0600
+date: 2018-12-06 22:07:29 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134064/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Jim Janicki brings over 30 years experience in business and software technology leadership to SigmaFlow as Chief Executive Officer. Prior to joining SigmaFlow, Jim was President and CEO of Ignite Technologies, a leader in enterprise content delivery solutions where he grew revenues over 6X and deployed the Ignite Solution Suite to major Fortune 500 companies such as, Bank of America, HSBC and McDonalds.
