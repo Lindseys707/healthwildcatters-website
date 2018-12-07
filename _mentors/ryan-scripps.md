@@ -1,13 +1,12 @@
 ---
 title: Ryan Scripps
-date: 2018-12-07 09:56:36 -0600
+date: 2018-12-07 15:56:36 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198223/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 [Ryan Scripps has worked as a technology and business leader and as a startup consultant for over 15 years.  His primary industry experience is in healthcare, but he has also worked in the construction and heavy equipment industry and in professional services supporting architects, engineers, lawyers and physicians.](https://www.healthwildcatters.com/mentors?__hstc=3037743.f7bd35a287fedde99311d751bfe42fd4.1542227144562.1543597132524.1543863854462.7&__hssc=3037743.335.1543863854462&__hsfp=2847743631&hsutk=f7bd35a287fedde99311d751bfe42fd4#bbf4f78adfa68beb6be31afb41687163)
