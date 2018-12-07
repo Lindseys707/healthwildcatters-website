@@ -1,13 +1,12 @@
 ---
 title: Ken Nelson
-date: 2018-12-06 16:24:17 -0600
+date: 2018-12-06 22:24:17 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135093/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Ken Nelson’s successful Sales, Marketing, and Business Development leadership experience ranges from start-ups with disruptive technologies (iRhythm Technologies: NASDAQ Ticker = IRTC and Reachview Technologies: acquired by Alcatel-Lucent Technologies) to the Fortune 500 (Boston Scientific – Cardiac Rhythm Management; NYSE Ticker = BSX).  Most recently, his leadership experience includes leading Medical Device, Diagnostic Services, and Digital Health industry sales and strategic partnership activity, as well as domestic and international business development and M&A activity, for BioTelemetry (formerly CardioNet; NASDAQ Ticker = BEAT).  BioTelemetry is the leading publicly traded wireless medical technology company in Digital Health, with an initial focus on cardiac monitoring devices and services, and annual revenue of $200 Million+.
