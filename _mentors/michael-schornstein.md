@@ -1,13 +1,12 @@
 ---
 title: Michael Schornstein
-date: 2018-12-07 09:56:01 -0600
+date: 2018-12-07 15:56:01 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198180/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Michael is a start-up founder and chief marketing officer.  He monetizes innovation, creates market disruption and brand & product differentiation.
