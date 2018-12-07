@@ -17,7 +17,7 @@ content_blocks:
     health startups a place for work and collaboration with others in the industry.
     In addition, Health Wildcatters created an event space which allows the organization
     to hold 60-70 events annually spanning the Pulse Breakfast and Lunch Series, Startup
-    Week Health Track and many more. </p>
+    Week Dallas Health Track and many more. </p>
 - template: co-founders
   block_name: co-founders
 - template: staff
