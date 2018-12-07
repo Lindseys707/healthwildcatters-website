@@ -1,13 +1,12 @@
 ---
 title: Richard Welch
-date: 2018-12-07 10:23:01 -0600
+date: 2018-12-07 16:23:01 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199799/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mr. Welch is a founder of both Best Practices Insurance Services, LLC (BPIS) and Applied Medico-Legal Solutions Risk Retention Group, Inc. (AMS RRG). He currently serves as President & Chief Executive Officer of BPIS and President of AMS RRG. Since 2003, AMS RRG has been providing medical liability insurance to physicians throughout the country across a broad range of specialties, and is now one of the nation’s premier physician risk retention groups.
