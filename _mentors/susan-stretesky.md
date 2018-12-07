@@ -1,13 +1,12 @@
 ---
 title: Susan Stretesky
-date: 2018-12-07 10:13:23 -0600
+date: 2018-12-07 16:13:23 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199223/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Susan has over 20 years’ experience in the Healthcare sector with Fortune 10, Fortune 500 and most Start-up companies. Her experience ranges from direct sales through executive management in the pharmaceutical, medical device and insurance-related businesses, including 10 product launches and building the business (from $00) into Multi-$MM revenue. Susan began her career with a decade at Merck, and in record time became the youngest person promoted into sales leadership at the #1 Company on the S&P. During her tenure she was in the 4% of elite managers selected as part of an innovative new product pilot, later implemented across America. She led her hand-picked team to #2 in the US and participated in the launch of many blockbuster products, recognized for Teamwork, and Sales Management, including the #1 Management Team. Her next decade was with ATS Medical with various roles from inception to exit, as the “Fastest Growing Cardiac Surgery Company in the World”.
