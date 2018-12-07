@@ -1,13 +1,12 @@
 ---
 title: Richard Burghardt
-date: 2018-12-06 15:24:50 -0600
+date: 2018-12-06 21:24:50 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131513/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 While spending 10 years in the automotive industry, Richard helped his wife launch her handbag and apparel company Ashard Richley and founded a company to successfully take a mobile app called Charade Date to market.
