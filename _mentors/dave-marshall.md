@@ -1,13 +1,12 @@
 ---
 title: Dave Marshall
-date: 2018-12-06 16:17:46 -0600
+date: 2018-12-06 22:17:46 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134687/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mr. Marshall has over 35 years of experience in providing financial, tax and legal advice within the energy, real estate and privately owned family and start-up business environments. Some of that experience was gained from an innovative pump technology startup, GeoTek Energy, where he served as CEO.  Mr. Marshall led GeoTek’s successful efforts to acquire a DOE multi-phase grant and matching private investor funds for the development and testing of its patented Gravity Head Energy technology.
