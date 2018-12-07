@@ -1,13 +1,12 @@
 ---
 title: John Jenkins
-date: 2018-12-06 16:07:59 -0600
+date: 2018-12-06 22:07:59 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134110/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 John joined Dundee VC in 2017 after 20+ years building and exiting three highly successful businesses. After getting kicked out of his first sales job, John built and sold his first company, AlterBen, a regional employee benefits brokerage firm. Next, he launched COBRA Outsourcing Company, which became the largest stand-alone COBRA and direct billing administrator serving over 4,000 employers nationally, before exiting to a strategic buyer in 2007.
