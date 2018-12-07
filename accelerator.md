@@ -39,10 +39,6 @@ content_blocks:
     During the accelerator, startups are connected to this mentor network who in turn
     provide advice and counsel as well as open up their own personal networks to propel
     your business forward.</p>
-- template: section-header
-  block_name: section-header
-  heading: Mentors
-  slug: mentors
 - template: mentors
   block_name: mentors
 
