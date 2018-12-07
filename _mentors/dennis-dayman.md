@@ -1,13 +1,12 @@
 ---
 title: Dennis Dayman
-date: 2018-12-06 15:38:33 -0600
+date: 2018-12-06 21:38:33 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132340/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Dennis Dayman has more than 25 years of experience combating spam, security/privacy issues, data governance issues, and improving email delivery through industry policy, ISP relations and technical solutions. As Return Path’s Chief Privacy and Security Officer, Dayman leverages his experience and key relationships to provide best practices to Return Path, its customers, and ensures the compliance of their communications data flows. He is also responsible for coordinating and managing Return Path’s international electronic commerce, privacy and Internet related policy issues. 
