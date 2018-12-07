@@ -1,13 +1,12 @@
 ---
 title: Nathan Cortez
-date: 2018-12-06 15:33:30 -0600
+date: 2018-12-06 21:33:30 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132030/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Professor Cortez, the inaugural Adelfa Botello Callejo Endowed Professor of Law in Leadership and Latino Studies, teaches and writes in the areas of health law, administrative law, and FDA law. His research focuses on emerging markets in health care and biotechnology. Prof. Cortez has become one of the world’s leading legal scholars on medical tourism and other cross-border health markets, and has published several articles and book chapters on the legal and ethical implications of these phenomena. His research also addresses mobile health technologies, how to regulate innovation under aging regulatory frameworks, the First Amendment constraints on FDA regulation (including FDA’s graphic tobacco warnings), immigration federalism, and alternative modes of regulation.
