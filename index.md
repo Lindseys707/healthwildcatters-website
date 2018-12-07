@@ -80,7 +80,7 @@ content_blocks:
       of North Texas, we lease space to health focused startups and companies, along
       with service providers and consultants in the healthcare or startup space. '
   - question: 'Are the offices furnished? '
-    answer: 'Yes, all of our offices are come furnished with a desk, chair and rolling
+    answer: 'Yes, all of our offices come furnished with a desk, chair and rolling
       storage cart. '
   - question: Is parking provided?
     answer: 'Parking is not provided in the building, but there are multiple lots
