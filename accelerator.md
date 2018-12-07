@@ -10,7 +10,7 @@ content_blocks:
   subheading: Accelerator your startup with a nationally-ranked program.
 - template: text
   block_name: text
-  text: "<p>The Health Wildcatters Accelerator Program continues to be ranked among
+  text: <p>The Health Wildcatters Accelerator Program continues to be ranked among
     the greatest in the nation according the Seed Accelerator Rankings Project, a
     study conducted by MIT, University of Richmond and Rice University. If you’re
     looking to take your startup to the next level, the Health Wildcatters Accelerator
@@ -28,7 +28,8 @@ content_blocks:
     2019 Health Wildcatters is introducing a 9-week spring program which will begin
     in February.</p><ul><li><p>Spring 2019 Program | Applications close Dec. 31, 2018
     | Begins Feb. 18, 2019</p></li><li><p>Fall 2019 Program | Applications close May
-    31, 2019 | Begins Aug. 26, 2019</p><p></p></li></ul><p><strong>Terms</strong><br>The
+    31, 2019 | Begins Aug. 26, 2019</p></li></ul><p><a href="https://www.f6s.com/healthwildcatters2019/apply"
+    title="">Apply for the 2019 Spring Accelerator Program</a></p><p><strong>Terms</strong><br>The
     terms for the Health Wildcatters program are in alignment with industry standards
     and what you’ll find at most accelerators. We offer $30,000 for eight percent
     equity and opportunities for follow on and convertible note investments to total
@@ -37,7 +38,7 @@ content_blocks:
     spanning the healthcare industry, professional services and many other verticals.
     During the accelerator, startups are connected to this mentor network who in turn
     provide advice and counsel as well as open up their own personal networks to propel
-    your business forward.</p>"
+    your business forward.</p>
 - template: section-header
   block_name: section-header
   heading: Mentors
