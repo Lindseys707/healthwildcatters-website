@@ -1,13 +1,12 @@
 ---
 title: Susan Barnicoat
-date: 2018-12-06 15:14:38 -0600
+date: 2018-12-06 21:14:38 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197319/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Susan is a change and transformation leader with extensive global expertise leading complex organizational transformation delivering increased agility, capability and efficiency for large multi-national corporations.
