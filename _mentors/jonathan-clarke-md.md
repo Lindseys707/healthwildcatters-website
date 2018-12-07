@@ -1,13 +1,12 @@
 ---
 title: Jonathan Clarke, MD
-date: 2018-12-06 15:27:47 -0600
+date: 2018-12-06 21:27:47 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131696/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Jonathan Clarke, MD, FACEP / CEO & Founder
