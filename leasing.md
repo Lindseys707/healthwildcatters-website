@@ -15,7 +15,7 @@ Be at the center of the action. Health Wildcatters offers executive office space
 * Whiteboard Walls
 * On-site Notary
 * 24/7 Access
-* On-Site Security 
+* On-Site Security
 * On-Site Coffee Shop and Restaurant
 * Mail & Package Handling
-* Free access to our events
+* Pulse Breakfast Membership
