@@ -1,13 +1,12 @@
 ---
 title: Clay Heighten, MD
-date: 2018-12-06 16:00:19 -0600
+date: 2018-12-06 22:00:19 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133636/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Dr. Heighten is a founding member of Green Park and Golf Ventures. After completion of residency training at the Southwestern Medical School affiliated Parkland Hospital program in Dallas, Texas he practiced Emergency Medicine for 13 years. In the early 1990’s Dr. Heighten was one of five physicians founding Metroplex Emergency Physicians Associates, P.A. “MEPA”. MEPA employed and managed emergency medicine providers contracting with 23 hospitals at its peak in Texas and surrounding states. MEPA was sold in 1998 to EMCARE a publically traded emergency services provider.
