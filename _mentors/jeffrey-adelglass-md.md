@@ -1,13 +1,12 @@
 ---
 title: Jeffrey Adelglass, MD
-date: 2018-12-06 14:45:43 -0600
+date: 2018-12-06 20:45:43 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130794/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Dr. Adelglass is the founder and medical director at Skintastic Cosmetic Surgery and Laser Skincare Centers and has recently acquired Smooth Solutions. He is a Fellow of the American Academy of Cosmetic Surgery, a member of the American Academy of Facial Plastic and Reconstructive Surgery and has 30 plus years of cosmetic surgical experience. Dr. Adelglass completed his undergraduate degree at Universidad Autonoma de Guadalajara. He continued his education at State University of New York Stony Brook and completed his residency at Columbia Presbyterian Medical Center.
