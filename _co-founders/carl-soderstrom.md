@@ -1,13 +1,12 @@
 ---
 title: Carl Soderstrom
-date: 2018-12-07 12:18:09 -0600
+date: 2018-12-07 18:18:09 +0000
 description: Co-Founder & Partner
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544206695/CarlSoderstrom.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mr. Soderstrom is a founding partner of Green Park & Golf Ventures, an early stage venture capital investment company. He serves on the Board of Directors for Caddis Partners, a Dallas based healthcare real estate investment firm as well as on the Board of Dallas-based PerioSciences. Mr. Soderstrom served as Chairman of the Board and Chief Executive Officer of PhyServe Physician Services, Inc. for 14 years before selling it to Texas Health Resources (THR) in December of 2010.
