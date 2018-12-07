@@ -1,13 +1,12 @@
 ---
 title: Paul Herchman
-date: 2018-12-06 16:01:34 -0600
+date: 2018-12-06 22:01:34 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133741/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 [Paul Herchman, CEO, Thermi, an Almirall Company](https://www.healthwildcatters.com/mentors?__hstc=3037743.f7bd35a287fedde99311d751bfe42fd4.1542227144562.1543597132524.1543863854462.7&__hssc=3037743.335.1543863854462&__hsfp=2847743631&hsutk=f7bd35a287fedde99311d751bfe42fd4#084b7aa0338a37b380c8eceaf39afeed)
