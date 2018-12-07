@@ -1,13 +1,12 @@
 ---
 title: Jason Signor
-date: 2018-12-07 09:58:53 -0600
+date: 2018-12-07 15:58:53 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198348/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 As a founding partner and CEO for Caddis Partners, LLC, Mr. Signor is responsible for the day-to-day management and operations of Caddis Partners’ real estate portfolio. During the recent recession, Caddis has grown into the largest pure-play medical developer in DFW (as named by Dallas Business Journal) and nationally ranked by Modern Healthcare.  In 2011, Caddis was also named one of the 100 fastest growing companies in North Texas by the SMU Cox School of Business.
