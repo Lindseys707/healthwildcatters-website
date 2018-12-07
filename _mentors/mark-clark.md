@@ -1,13 +1,12 @@
 ---
 title: Mark Clark
-date: 2018-12-06 15:26:48 -0600
+date: 2018-12-06 21:26:48 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131639/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 [Mark is a Senior Partner at ](https://www.healthwildcatters.com/mentors?__hstc=3037743.f7bd35a287fedde99311d751bfe42fd4.1542227144562.1543597132524.1543863854462.7&__hssc=3037743.335.1543863854462&__hsfp=2847743631&hsutk=f7bd35a287fedde99311d751bfe42fd4#bc58b3214ce686b3c3b1dafd50ae8b45)[O2Works](https://o2works.com/), a premier Oracle E-Business Suite services provider headquartered in Dallas, Texas. Mr. Clark started his career with Oracle Corporation as one of their first Applications consultants, and later founded two globally focused consulting firms concentrating on Oracle Applications. He has worked with enterprise customers across a wide variety of industries and geographies since 1990. 
