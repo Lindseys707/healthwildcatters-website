@@ -1,13 +1,12 @@
 ---
 title: Matt Gonzales
-date: 2018-12-06 15:54:50 -0600
+date: 2018-12-06 21:54:50 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133306/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Matt is an entrepreneur, start-up founder and product management professional with a passion for working with start-ups and other entrepreneurs to support market research, product development and management.
