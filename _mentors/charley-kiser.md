@@ -1,13 +1,12 @@
 ---
 title: Charley Kiser
-date: 2018-12-06 16:12:03 -0600
+date: 2018-12-06 22:12:03 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134348/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 [Charles H. (Charley) Kiser founded **C. H. Kiser & Company, LLC**, a management consulting practice specializing in developing business and technology strategies that drive extraordinary results. Charley brings decades of executive management experience leading high performing teams on a regional, national and global scale.](https://www.healthwildcatters.com/mentors?__hstc=3037743.f7bd35a287fedde99311d751bfe42fd4.1542227144562.1543597132524.1543863854462.7&__hssc=3037743.335.1543863854462&__hsfp=2847743631&hsutk=f7bd35a287fedde99311d751bfe42fd4#7c3047f684ab20c718b21d0f7c7efd90)
