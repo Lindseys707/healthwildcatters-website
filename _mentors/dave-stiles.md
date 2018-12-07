@@ -1,13 +1,12 @@
 ---
 title: Dave Stiles
-date: 2018-12-07 10:10:25 -0600
+date: 2018-12-07 16:10:25 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199046/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Dave Stiles is a progressive, entrepreneurial, strategic contracting leader with highly refined sales and negotiation skills. Dave has over 25 years of Medical Device Industry experience with large companies like Medtronic and J&J as well as small companies and start-ups. Dave has honed an exceptionally broad span of leadership skills in sales, marketing, contracting, product development, business start-up and general management.
