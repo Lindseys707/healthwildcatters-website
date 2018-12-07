@@ -1,13 +1,12 @@
 ---
 title: Solome Tibebu
-date: 2018-12-07 10:20:10 -0600
+date: 2018-12-07 16:20:10 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199629/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Solome Tibebu is an experienced health IT business development leader, mental health advocate and entrepreneur.  As part of the Affiniti VC team, she is a champion for early-stage digital health and innovative technology startups led by underrepresent entrepreneurs.
