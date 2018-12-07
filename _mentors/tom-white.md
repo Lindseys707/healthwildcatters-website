@@ -1,13 +1,12 @@
 ---
 title: Tom White
-date: 2018-12-07 10:23:31 -0600
+date: 2018-12-07 16:23:31 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199832/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Tom White, the founder and CEO of PHYND Technologies, has 20 years of start-up experience. PHYND is a new and innovative healthcare software platform enabling hospitals to better manage provider data within their IT environment (www.phynd.com). Prior to PHYND, Mr. White co-founded and sold two software companies.
