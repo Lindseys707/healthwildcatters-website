@@ -97,5 +97,7 @@ content_blocks:
   slug: news
 - template: news-feature
   block_name: news-feature
+- template: sponsors
+  block_name: sponsors
 
 ---
