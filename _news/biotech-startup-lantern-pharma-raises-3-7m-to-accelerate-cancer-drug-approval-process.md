@@ -6,6 +6,5 @@ author: ''
 publication: ''
 link: https://hitconsultant.net/2017/05/02/lantern-pharma-series-a-funding/
 image: ''
-published: false
 
 ---
