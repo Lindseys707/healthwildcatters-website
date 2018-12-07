@@ -1,13 +1,12 @@
 ---
 title: Clay J. Cockerell, MD
-date: 2018-12-06 15:29:19 -0600
+date: 2018-12-06 21:29:19 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131776/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Clay J. Cockerell, M.D. is an internationally renowned specialist who has served in many leadership roles in organized medicine including President of the American Academy of Dermatology.  He is also Clinical Professor of Dermatology and Pathology at the University of Texas Southwestern Medical Center and Director of the Division of Dermatopathology.  He is a board certified Dermatologist and Dermatopathologist licensed in many states in the United States.
