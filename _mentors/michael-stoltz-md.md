@@ -1,13 +1,12 @@
 ---
 title: Michael Stoltz, MD
-date: 2018-12-07 10:12:54 -0600
+date: 2018-12-07 16:12:54 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199192/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Michael Stoltz, M.D., joined Texas Health Resources in January 2008 as executive vice president of Texas Health and president of Texas Health Physicians Group.
