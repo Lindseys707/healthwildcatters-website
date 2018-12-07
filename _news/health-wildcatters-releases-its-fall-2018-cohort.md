@@ -1,6 +1,6 @@
 ---
 title: Health Wildcatters Releases its Fall 2018 Cohort
-date: 2018-09-18 11:12:16 -0500
+date: 2018-12-07 11:59:00 -0600
 author: Shawn Shinneman
 publication: 'D CEO Healthcare '
 link: https://healthcare.dmagazine.com/2018/08/29/health-wildcatters-releases-its-fall-2018-cohort-announces-plans-for-a-spring-program
