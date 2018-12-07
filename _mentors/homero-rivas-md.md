@@ -1,13 +1,12 @@
 ---
 title: Homero Rivas, MD
-date: 2018-12-07 09:50:42 -0600
+date: 2018-12-07 15:50:42 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197864/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Homero Rivas, MD, MBA, FACS, is an Assistant Professor of
