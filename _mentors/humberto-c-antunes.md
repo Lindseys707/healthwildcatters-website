@@ -1,13 +1,12 @@
 ---
 title: Humberto C. Antunes
-date: 2018-12-06 14:52:06 -0600
+date: 2018-12-06 20:52:06 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130709/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Humberto C. Antunes is an entrepreneur in healthcare and wellness focused on finding ways to improve the lives of people all over the world. He worked in dermatology, ophthalmology, medical aesthetics, immunology, inflammation, cosmetics, medical devices, pharma and nutraceuticals. He has an active involvement in research to address the issues arising from the ageing demographics, providing holistic health solutions, helping technologies converge and the digital revolution.
