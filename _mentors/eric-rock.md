@@ -1,13 +1,12 @@
 ---
 title: Eric Rock
-date: 2018-12-07 09:51:58 -0600
+date: 2018-12-07 15:51:58 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197934/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Eric Rock has demonstrated repeat successes as an innovator and entrepreneur, having founded three highly successful software companies. 
