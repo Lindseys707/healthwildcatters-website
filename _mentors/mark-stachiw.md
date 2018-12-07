@@ -1,13 +1,12 @@
 ---
 title: Mark Stachiw
-date: 2018-12-07 10:09:13 -0600
+date: 2018-12-07 16:09:13 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198980/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mark Stachiw helps companies grow through shaping and driving strategy and by building high performance boards and teams. With a from the front, no-nonsense leadership style, Mark has a unique ability to solve complex problems and tackle crisis situations. A former colleague has described Mark as one of the smartest persons he has known. Mark also is an ethical and skilled dealmaker and an effective advocate with regulators and public officials. Mark thrives in businesses which are undergoing change. Mark has been repeatedly recognized by the business community for his substantial contributions to the organizations he has been privileged to help lead.
