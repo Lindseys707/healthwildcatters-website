@@ -1,13 +1,12 @@
 ---
 title: Elyse Dickerson
-date: 2018-12-06 15:40:27 -0600
+date: 2018-12-06 21:40:27 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132509/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 [Elyse Stoltz Dickerson is CEO and Co-Founder of ](https://www.healthwildcatters.com/mentors?__hstc=3037743.f7bd35a287fedde99311d751bfe42fd4.1542227144562.1543597132524.1543863854462.7&__hssc=3037743.335.1543863854462&__hsfp=2847743631&hsutk=f7bd35a287fedde99311d751bfe42fd4#4b4f7dd93d9d0fb845933b4b7855e918)[Eosera, Inc.](http://www.eosera.com/) , a majority woman-owned biotech company committed to developing products that address underserved medical needs. Eosera operates by putting purpose before profits and is proud to be one of the pioneering companies in a movement called [Conscious Capitalism](https://info.earwaxmd.com/blog/eosera-pioneers-in-conscious-capitalism).
