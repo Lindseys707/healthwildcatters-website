@@ -1,13 +1,12 @@
 ---
 title: Christopher Crow, MD
-date: 2018-12-06 15:34:41 -0600
+date: 2018-12-06 21:34:41 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132106/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Christopher Crow, M.D. CEO of StratiFi Health and president of Catalyst Health Network, is a nationally recognized healthcare innovator. Dr. Crow created StratiFi Health and launched Catalyst Health Network after founding Village Health Partners and Legacy Medical Village in Plano, Texas in 2007. He is an award-winning primary care physician and has spent the past 20+ years focused on helping communities thrive through improving the delivery of healthcare.
