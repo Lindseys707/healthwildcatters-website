@@ -1,13 +1,12 @@
 ---
 title: Chad Birckelbaw
-date: 2018-12-06 15:20:32 -0600
+date: 2018-12-06 21:20:32 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131247/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Chad Birckelbaw is an experienced leader with a proven record of success and diverse experiences tosupport profitable organizational growth. Chad is adept at utilizing a market-based approach to formulate an optimal strategy and identifying and retaining leadership to support growth.
