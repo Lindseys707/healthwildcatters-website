@@ -1,13 +1,12 @@
 ---
 title: Lydia Kinkade
-date: 2018-12-06 16:11:17 -0600
+date: 2018-12-06 22:11:17 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134305/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Lydia Kinkade joined Cohen-Esrey Capital Partners, LLC (“CECP”) as a director in 2015. CECP is an affiliate of Cohen-Esrey that focuses on fundraising and equity syndication. In this role, she identifies and cultivates equity sources for apartment acquisition funds and coordinates the flow of information needed to negotiate and deliver a term sheet for individual projects.
