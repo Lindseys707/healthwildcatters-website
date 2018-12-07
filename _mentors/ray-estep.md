@@ -1,13 +1,12 @@
 ---
 title: Ray Estep
-date: 2018-12-06 15:45:23 -0600
+date: 2018-12-06 21:45:23 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132736/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Ray is a leader for navigating development of disruptive solutions and creation of new markets that leverage emerging technologies. During his career, Ray has been successful with CEOs, Boards, and investors to grow and position sale of 3 companies. He has also assisted companies in obtaining significant funding for growth around the world through traditional fundraising activities and M&A.
