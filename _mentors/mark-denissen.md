@@ -1,13 +1,12 @@
 ---
 title: Mark Denissen
-date: 2018-12-06 15:39:43 -0600
+date: 2018-12-06 21:39:43 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132405/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mark retired from Texas Instruments as Vice President of World Wide Strategic Marketing in 2014.
