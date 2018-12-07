@@ -1,13 +1,12 @@
 ---
 title: Tessa Hoskin
-date: 2018-12-06 16:04:30 -0600
+date: 2018-12-06 22:04:30 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133889/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Contessa “Tessa” Hoskin is a Business Executive Leader with more than 19 years of experience and leadership responsibilities in Program Management (P&L), Business Development & Capture Management, Operations, Engineering, Mergers & Acquisitions, and Strategy. Hoskin’s career spans industries of Petrochemical, Industrial and Commercial Manufacturing, Telecommunications, Defense & Aerospace, Healthcare, Distributed Control Systems & Automation, and Integration. She has matured her career from individual contributor to Divisional Executive (VP).
