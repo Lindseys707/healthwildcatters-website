@@ -1,8 +1,8 @@
 ---
-title: Susan Barnicoat***
+title: Susan Barnicoat
 date: 2018-12-06 15:14:38 -0600
 description: ''
-photo: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197319/image.png
 link_1: ''
 link_2: ''
 link_3: ''
