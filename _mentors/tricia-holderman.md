@@ -1,13 +1,12 @@
 ---
 title: Tricia Holderman
-date: 2018-12-06 16:03:41 -0600
+date: 2018-12-06 22:03:41 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133849/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Tricia Holderman is Owner, President and CEO of Elite Facility Systems and its subsidiaries Elite Home Services, targeting the luxury home market, and Cleaning Supplies and Solutions, featuring just-in-time products and supplies for small businesses.
