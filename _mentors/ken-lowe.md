@@ -1,13 +1,12 @@
 ---
 title: Ken Lowe
-date: 2018-12-06 16:16:00 -0600
+date: 2018-12-06 22:16:00 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134578/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Ken is an experienced IT executive, having lived and worked internationally for many years, running software consulting programs for telecom carriers.  His engagements took him to Europe, Africa, and the Middle East, visiting six of the seven continents and over 40 countries.  He is Director of Business Development for the SensorLogic organization within Gemalto, a technology security company based in France.  He works daily with telecommunication companies, software development firms, and mobile device manufacturers to create solutions to help businesses capture and manage critical operational data, reduce risk, and monitor critical assets.
