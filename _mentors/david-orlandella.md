@@ -1,13 +1,12 @@
 ---
 title: David Orlandella
-date: 2018-12-06 16:27:43 -0600
+date: 2018-12-06 22:27:43 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135287/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 David Orlandella is a Managing Director for ORIX Ventures. His primary focus is on new deal origination and strategic business development for Healthcare investments.
