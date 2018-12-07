@@ -5,6 +5,5 @@ author: ''
 publication: ''
 link: https://healthcare.dmagazine.com/2017/01/23/nexeon-closes-4-3-million-in-private-funding-round-has-form-10-deemed-effective/
 image: ''
-published: false
 
 ---
