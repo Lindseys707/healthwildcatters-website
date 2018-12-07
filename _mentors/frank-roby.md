@@ -1,13 +1,12 @@
 ---
 title: Frank Roby
-date: 2018-12-07 09:51:21 -0600
+date: 2018-12-07 15:51:21 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197900/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Frank Roby is Chief Executive Officer and a member of the Board of Directors for RevelationMD, a physician centered Healthcare technology collaborative. Mr. Roby joined the company as its second stage CEO to expand its capital and customer base with physicians and major self-funded employers. Without disrupting employer health care plans, revelationMD works with the physicians that employees use to integrate data, promote collaboration, and re-align incentives in order to reduce cost and improve quality in healthcare.
