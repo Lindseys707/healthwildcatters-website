@@ -1,13 +1,12 @@
 ---
 title: Azam Anwar, MD
-date: 2018-12-06 15:04:15 -0600
+date: 2018-12-06 21:04:15 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130685/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 **Dr. Azam Anwar,**  FACC, is a board-certified cardiologist and interventional cardiologist.  He completed his training at The University of Texas — San Antonio and  his interventional cardiology fellowship at The San Francisco Heart  Institute.
