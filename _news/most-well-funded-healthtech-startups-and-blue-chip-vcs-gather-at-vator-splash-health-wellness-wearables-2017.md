@@ -6,6 +6,5 @@ author: ''
 publication: ''
 link: https://vator.tv/news/2017-03-09-most-well-funded-healthtech-startups-and-blue-chip-vcs#hrmJ7zGWWHDFV7r7.99
 image: ''
-published: false
 
 ---
