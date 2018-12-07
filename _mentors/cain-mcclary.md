@@ -1,13 +1,12 @@
 ---
 title: Cain McClary
-date: 2018-12-06 16:18:52 -0600
+date: 2018-12-06 22:18:52 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544200026/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Cain McClary, MD is the founder and Managing Partner of KdT Ventures. A native of Nashville, TN, Cain received his Sc.B. in Biochemistry and Molecular Biology from Brown University in 2007. During his undergraduate studies, Cain studied proteins involved in the development of
