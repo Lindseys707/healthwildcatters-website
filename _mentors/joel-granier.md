@@ -1,13 +1,12 @@
 ---
 title: Joel Granier
-date: 2018-12-06 15:57:20 -0600
+date: 2018-12-06 21:57:20 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133464/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Joel Granier is a US and global product management executive specializing in the healthcare and medical device industry. Joel has over 20 years of progressive marketing responsibility with large firms (Medtronic and Roche Diagnostics) as well as mid-size and start-up firms. He has extensive expertise in both upstream and downstream marketing on brands up to $1B.  Joel has a proven track record of leading cross-functional teams, collaborating with key stakeholders, functions and external agencies and driving game-changing strategies.
