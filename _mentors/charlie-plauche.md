@@ -1,13 +1,12 @@
 ---
 title: Charlie Plauche
-date: 2018-12-07 09:44:50 -0600
+date: 2018-12-07 15:44:50 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197509/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Charlie Plauche is a Partner at S3 Ventures.  Charlie currently serves on the boards of S3 portfolio companies Alkami Technology, Iconixx, OutboundEngine, Tango Health, and z-lien.  He also works closely with S3’s investments in AllStacks, Chrono.gg, and Liveoak Technologies. Previous board duties include Favor Delivery (acquired by H-E-B), Kimbia (acquired by GiveGab) and Pristine (acquired by Upskill).  Charlie also worked closely with TVA Medical (acquired by Becton Dickinson, NYSE:BDX). 
