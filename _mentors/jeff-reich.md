@@ -1,13 +1,12 @@
 ---
 title: Jeff Reich
-date: 2018-12-07 09:49:36 -0600
+date: 2018-12-07 15:49:36 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197795/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Jeff Reich, Chief Security Officer at Barricade Security Systems, has developed a history of entering situations where little to no security or risk management infrastructure exists, or an existing system needs updating. He has been actively involved in the Information Security community for well over 30 years. He is the Founding Chairperson of the Security Leaders Forum and Founding Member of and was a Group Leader and Section Author for the Cloud Security Alliance. Jeff was the Director of Education for the InfraGard Capitol of Texas Chapter. In addition, he is a past president of the ISSA Capitol of Texas Chapter and was the Vice President of the ISSA Metropolitan Atlanta Chapter. Jeff holds a Top Secret clearance and has presented hundreds each of educational sessions and industry presentations.
