@@ -1,8 +1,8 @@
 ---
-title: Rebecca Dubowy - Posten, MD***
+title: Rebecca Dubowy - Posten, MD
 date: 2018-12-06 15:42:49 -0600
 description: ''
-photo: ''
+photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199957/image.png
 link_1: ''
 link_2: ''
 link_3: ''
