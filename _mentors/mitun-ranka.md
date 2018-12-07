@@ -1,13 +1,12 @@
 ---
 title: Mitun Ranka
-date: 2018-12-07 09:47:52 -0600
+date: 2018-12-07 15:47:52 +0000
 description: ''
 photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197692/image.png
 link_1: ''
 link_2: ''
 link_3: ''
 link_4: ''
-published: false
 
 ---
 Mitun is a Vice President at Spindletop Capital, an Austin-based investment firm focused on expansion and growth capital for rapidly growing healthcare companies. Mitun is responsible for identifying and evaluating new healthcare investments. Additionally, he works with the management teams of existing portfolio companies to identify and implement growth strategies that will build long term value in the healthcare and life science sectors.
