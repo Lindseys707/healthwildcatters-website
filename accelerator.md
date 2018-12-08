@@ -41,5 +41,8 @@ content_blocks:
     your business forward.</p>
 - template: mentors
   block_name: mentors
+- template: newsletter-signup-white
+  block_name: newsletter-signup-white
+  heading: Never miss an update
 
 ---
