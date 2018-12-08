@@ -13,3 +13,6 @@ header:
   weight: 4
   title: News
 footer:
+- weight: 1
+  url: "/#events"
+  title: Events
