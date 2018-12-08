@@ -1,5 +1,5 @@
 ---
-1_header:
+header:
 - weight: 1
   url: "/#events"
   title: Events
@@ -12,7 +12,7 @@
 - url: "/#news"
   weight: 4
   title: News
-2_footer_column_1:
+footer_column_1:
 - weight: 1
   url: "/#events"
   title: Events
@@ -25,7 +25,7 @@
 - url: "/#news"
   weight: 4
   title: News
-3_footer_column_2:
+footer_column_2:
 - weight: 1
   url: "/#events"
   title: Events
@@ -38,7 +38,7 @@
 - url: "/#news"
   weight: 4
   title: News
-4_footer_column_3:
+footer_column_3:
 - weight: 1
   url: "/#events"
   title: Events
