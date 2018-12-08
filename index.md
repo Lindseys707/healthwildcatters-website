@@ -18,8 +18,8 @@ content_blocks:
   background_image: "/v1543940452/header-9.jpg"
 - template: timely
   block_name: timely
-- template: newsletter-signup
-  block_name: newsletter-signup
+- template: newsletter-signup-white
+  block_name: newsletter-signup-white
   heading: Never miss an update
 - template: section-header
   block_name: section-header
@@ -99,5 +99,8 @@ content_blocks:
   block_name: news-feature
 - template: sponsors
   block_name: sponsors
+- template: newsletter-signup
+  block_name: newsletter-signup
+  heading: Never miss an update
 
 ---
