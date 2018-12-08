@@ -18,14 +18,14 @@ fields:
   name: offerings
   fields:
   - type: text
+    name: heading
+    label: Heading
+  - type: text
     name: icon
     label: Icon
     config:
       required: false
     default: '07'
-  - type: text
-    name: heading
-    label: Heading
   - type: textarea
     name: text
     label: Text
