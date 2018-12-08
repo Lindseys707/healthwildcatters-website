@@ -67,15 +67,18 @@ content_blocks:
   - heading: Single
     text: 1 person
     price: "$699/mo"
-    link_text: Get started
+    link_text: Learn more
+    link_url: "/leasing"
   - heading: Medium
     text: 1-2 people
     price: "$699/mo"
-    link_text: Get started
+    link_text: Learn more
+    link_url: "/leasing"
   - heading: Large
     text: 1-3 people
     price: "$999/mo"
-    link_text: Get started
+    link_text: Learn more
+    link_url: "/leasing"
   faq:
   - question: Do I need to be an HW alumni to lease office space?
     answer: 'Absolutely not! Leasing space is open to all healthcare companies and
