@@ -1,0 +1,15 @@
+---
+label: Newsletter signup - white
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  default: newsletter-signup-white
+  hidden: true
+  config:
+    required: true
+- type: text
+  name: heading
+  label: Heading
