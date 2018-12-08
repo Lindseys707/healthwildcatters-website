@@ -17,9 +17,12 @@ fields:
   label: Offerings
   name: offerings
   fields:
-  - type: file
-    name: image
-    label: Image
+  - type: text
+    name: icon
+    label: Icon
+    config:
+      required: false
+    default: '07'
   - type: text
     name: heading
     label: Heading
