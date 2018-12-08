@@ -12,3 +12,42 @@ header:
 - url: "/#news"
   weight: 4
   title: News
+footer_column_1:
+- weight: 1
+  url: "/#events"
+  title: Events
+- weight: 2
+  url: "/#accelerator"
+  title: Accelerator
+- weight: 3
+  url: "/#leasing"
+  title: Leasing
+- url: "/#news"
+  weight: 4
+  title: News
+footer_column_2:
+- weight: 1
+  url: "/#events"
+  title: Events
+- weight: 2
+  url: "/#accelerator"
+  title: Accelerator
+- weight: 3
+  url: "/#leasing"
+  title: Leasing
+- url: "/#news"
+  weight: 4
+  title: News
+footer_column_3:
+- weight: 1
+  url: "/#events"
+  title: Events
+- weight: 2
+  url: "/#accelerator"
+  title: Accelerator
+- weight: 3
+  url: "/#leasing"
+  title: Leasing
+- url: "/#news"
+  weight: 4
+  title: News
