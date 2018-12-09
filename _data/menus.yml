@@ -1,16 +1,16 @@
 ---
-footer (leasing):
+footer_leasing:
 - weight: 1
   url: "/leasing#about"
   title: About
-footer (accelerator):
+footer_accelerator:
 - weight: 2
   url: "/accelerator#mentors"
   title: Mentors
 - weight: 1
   url: "/accelerator#resources"
   title: Resources
-footer (quick links):
+footer_quick_links:
 - weight: 2
   url: "/#news"
   title: News
