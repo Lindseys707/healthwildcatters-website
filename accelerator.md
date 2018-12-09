@@ -44,9 +44,5 @@ content_blocks:
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
   heading: Never miss an update
-menu:
-  footer:
-    weight: 2
-    identifier: item_g1vLuE2
 
 ---
