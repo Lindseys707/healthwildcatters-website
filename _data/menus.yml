@@ -6,14 +6,14 @@ footer (quick links):
 - weight: 2
   url: "/#news"
   title: News
-footer_2:
+footer (accelerator):
 - weight: 1
   url: "/accelerator#resources"
   title: Resources
 - weight: 2
   url: "/accelerator#mentors"
   title: Mentors
-footer_3:
+footer (leasing):
 - weight: 1
   url: "/leasing#about"
   title: About
