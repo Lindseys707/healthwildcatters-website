@@ -1,37 +1,22 @@
 ---
-footer:
-- weight: 3
-  url: "/leasing#faq"
-  parent: item_Axyox9E
-  title: FAQ
-- weight: 2
-  url: "/leasing#pricing"
-  parent: item_Axyox9E
-  title: Pricing
-- weight: 1
-  url: "/leasing#about"
-  parent: item_Axyox9E
-  title: About
-- weight: 2
-  url: "/accelerator#mentors"
-  parent: item_g1vLuE2
-  title: Mentors
-- weight: 1
-  url: "/accelerator#resources"
-  parent: item_g1vLuE2
-  title: Resources
-- weight: 2
-  url: "/#news"
-  parent: item_r2H3dqr
-  title: News
+footer_1:
 - weight: 1
   url: "/#events"
-  parent: item_r2H3dqr
   title: Event Calendar
+- weight: 2
+  url: "/#news"
+  title: News
+footer_2:
 - weight: 1
-  title: Quick Links
-  identifier: item_r2H3dqr
-  url: "/"
+  url: "/accelerator#resources"
+  title: Resources
+- weight: 2
+  url: "/accelerator#mentors"
+  title: Mentors
+footer_3:
+- weight: 1
+  url: "/leasing#about"
+  title: About
 header:
 - url: "/#news"
   weight: 4
