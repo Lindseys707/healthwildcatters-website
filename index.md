@@ -53,8 +53,8 @@ content_blocks:
     icon: '21'
 - template: video
   block_name: video
-  heading: A cool video goes here
-  subheading: Include some additional text here.
+  heading: Watch to learn more about our program
+  subheading: ''
 - template: section-header
   block_name: section-header
   heading: Leasing
