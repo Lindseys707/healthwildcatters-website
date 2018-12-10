@@ -27,7 +27,7 @@ sections:
   - news
 - type: directory
   path: _portfolio
-  label: Portfolio
+  label: Portfolio companies
   create: all
   match: "**/*"
   templates:
