@@ -8,6 +8,7 @@ content_blocks:
   block_name: section-header
   heading: Accelerator
   subheading: Accelerator your startup with a nationally-ranked program.
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544463669/Accelerator%20Banner%20%283%29.jpg
 - template: text
   block_name: text
   text: "<p>The Health Wildcatters Accelerator Program continues to be ranked among
