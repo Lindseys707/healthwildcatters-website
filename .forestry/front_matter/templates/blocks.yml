@@ -16,6 +16,7 @@ fields:
   template_types:
   - accelerator-feature
   - co-founders
+  - cta
   - hero
   - leasing-feature
   - mentors
