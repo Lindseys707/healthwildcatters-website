@@ -7,6 +7,7 @@ content_blocks:
   heading: Future-Proofing Healthcare
   subheading: Health Wildcatters provides investment and key resources to support
     healthcare entrepreneurs.
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544400396/Hero%20banner.jpg
 - template: section-header
   block_name: section-header
   heading: Events
