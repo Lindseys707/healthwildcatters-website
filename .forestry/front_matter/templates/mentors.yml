@@ -10,3 +10,6 @@ fields:
   config:
     required: true
   default: mentors
+- type: number
+  name: limit
+  label: Limit
