@@ -39,6 +39,10 @@ content_blocks:
     During the accelerator, startups are connected to this mentor network who in turn
     provide advice and counsel as well as open up their own personal networks to propel
     your business forward.</p>
+- template: cta
+  block_name: cta
+  button_text: Apply now
+  url: https://www.f6s.com/healthwildcatters2019/apply
 - template: mentors
   block_name: mentors
 - template: newsletter-signup-white
