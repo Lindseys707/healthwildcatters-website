@@ -1,22 +1,22 @@
 ---
-footer_leasing:
-- weight: 1
-  url: "/leasing#about"
-  title: About
-footer_accelerator:
-- weight: 2
-  url: "/accelerator#mentors"
-  title: Mentors
-- weight: 1
-  url: "/accelerator#resources"
-  title: Resources
 footer_quick_links:
-- weight: 2
-  url: "/#news"
-  title: News
 - weight: 1
   url: "/#events"
   title: Event Calendar
+- weight: 2
+  url: "/#news"
+  title: News
+footer_accelerator:
+- weight: 1
+  url: "/accelerator#resources"
+  title: Resources
+- weight: 2
+  url: "/accelerator#mentors"
+  title: Mentors
+footer_leasing:
+- weight: 1
+  url: "/leasing"
+  title: Learn more
 header:
 - url: "/#news"
   weight: 4
