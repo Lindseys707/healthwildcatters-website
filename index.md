@@ -39,18 +39,21 @@ content_blocks:
       stage of growth.
     link_text: Learn More
     icon: '07'
+    link_url: "/accelerator"
   - heading: Mentoring
     text: Hundreds of mentors are ready and willing to provide insight and counsel
       gleaned from their own experiences and practice areas to guide startups in the
       program from launch to success.
     link_text: Learn more
     icon: '89'
+    link_url: "/accelerator"
   - heading: Investors
     text: 'The Health Wildcatters Accelerator Program will make your startup credible,
       visible and accessible to investors spanning the globe to close fundraising
       rounds and propel growth. '
     link_text: Learn More
     icon: '21'
+    link_url: "/accelerator"
 - template: video
   block_name: video
   heading: Watch to learn more about our program.
