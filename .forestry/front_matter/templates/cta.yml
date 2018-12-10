@@ -1,0 +1,22 @@
+---
+label: CTA
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: cta
+- type: text
+  name: button_text
+  label: Button text
+  config:
+    required: true
+- type: text
+  name: url
+  label: URL
+  config:
+    required: true
