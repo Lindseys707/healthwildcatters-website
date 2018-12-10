@@ -16,8 +16,8 @@ content_blocks:
     looking to take your startup to the next level, the Health Wildcatters Accelerator
     Program is your next step.</p><p>The accelerator program is a fast and furious
     time period in which Health Wildcatters connects you to our vast network of mentors
-    and investors and presents a diverse curriculum to accelerate the startups growth.</p><p><strong>Visible
-    + Accessible + Credible= Investible</strong><br>Our secret to making startups
+    and investors and presents a diverse curriculum to accelerate the startups growth.</p><h3><strong>Visible
+    + Accessible + Credible= Investible</strong></h3><p>Our secret to making startups
     grow? Our program makes startups visible, accessible and credible. Garnering over
     40 million media impressions per year, the Health Wildcatters program immediately
     offers the cohort an elevated media presence. As a member of our portfolio investors
