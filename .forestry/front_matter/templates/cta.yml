@@ -2,6 +2,7 @@
 label: CTA
 hide_body: true
 is_partial: true
+display_field: button_text
 fields:
 - type: text
   name: block_name
