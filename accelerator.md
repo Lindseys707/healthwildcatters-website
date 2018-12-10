@@ -35,12 +35,11 @@ content_blocks:
   url: https://www.f6s.com/healthwildcatters2019/apply
 - template: text
   block_name: text
-  text: "<h3><strong>Terms</strong></h3><p><br>The terms for the Health Wildcatters
-    program are in alignment with industry standards and what you’ll find at most
-    accelerators. We offer $30,000 for eight percent equity and opportunities for
-    follow on and convertible note investments to total a maximum potential investment
-    of $380k.</p><p></p><p></p><h3><strong>Mentors</strong></h3><p><br>The Health
-    Wildcatters mentor network is vast and comprised of well over 200 individuals
+  text: "<h3><strong>Terms</strong></h3><p>The terms for the Health Wildcatters program
+    are in alignment with industry standards and what you’ll find at most accelerators.
+    We offer $30,000 for eight percent equity and opportunities for follow on and
+    convertible note investments to total a maximum potential investment of $380k.</p><p></p><p></p><p></p><h3><strong>Mentors</strong></h3><p>The
+    Health Wildcatters mentor network is vast and comprised of well over 200 individuals
     spanning the healthcare industry, professional services and many other verticals.
     During the accelerator, startups are connected to this mentor network who in turn
     provide advice and counsel as well as open up their own personal networks to propel
