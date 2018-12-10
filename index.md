@@ -16,7 +16,7 @@ content_blocks:
     listing of upcoming events click on the events tab above or register for our upcoming
     events below.
   slug: events
-  background_image: "/v1543940452/header-9.jpg"
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544400590/Events%20Banner.jpg
 - template: timely
   block_name: timely
 - template: newsletter-signup-white
@@ -28,6 +28,7 @@ content_blocks:
   subheading: Ready to take your startup to the next level? Learn more about our nationally-ranked
     healthcare accelerator program and apply to be a member of our next cohort.
   slug: accelerator
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544400596/Accelerator%20Banner.jpg
 - template: accelerator-feature
   block_name: accelerator-feature
   heading: Here's what we have to offer.
@@ -62,6 +63,7 @@ content_blocks:
     health startups right at the center of the premier health innovation hub in North
     Texas.
   slug: leasing
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544400605/Leasing%20Banner.jpg
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
@@ -102,6 +104,7 @@ content_blocks:
     mentors and friends as they continue to bring the latest and greatest innovations
     to healthcare.
   slug: news
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544400610/News%20Banner.jpg
 - template: news-feature
   block_name: news-feature
 - template: sponsors
