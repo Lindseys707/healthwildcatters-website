@@ -53,7 +53,7 @@ content_blocks:
     icon: '21'
 - template: video
   block_name: video
-  heading: Watch to learn more about our program
+  heading: Watch to learn more about our program.
   subheading: ''
 - template: section-header
   block_name: section-header
