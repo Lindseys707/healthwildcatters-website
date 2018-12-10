@@ -18,7 +18,7 @@ content_blocks:
     Program is your next step.</p><p>The accelerator program is a fast and furious
     time period in which Health Wildcatters connects you to our vast network of mentors
     and investors and presents a diverse curriculum to accelerate the startups growth.</p><p></p><h3><strong>Visible
-    + Accessible + Credible= Investible</strong></h3><p>Our secret to making startups
+    + Accessible + Credible = Investible</strong></h3><p>Our secret to making startups
     grow? Our program makes startups visible, accessible and credible. Garnering over
     40 million media impressions per year, the Health Wildcatters program immediately
     offers the cohort an elevated media presence. As a member of our portfolio investors
@@ -27,7 +27,7 @@ content_blocks:
     opportunities.</p><p></p><p></p><h3><strong>When</strong></h3><p>The 12- week
     fall program begins late August and ends in the beginning of November, and for
     the first time in 2019 Health Wildcatters is introducing a 9-week spring program
-    which will begin in February. </p><ul><li><p>Spring 2019 Program | Applications
+    which will begin in February.</p><ul><li><p>Spring 2019 Program | Applications
     close Dec. 31, 2018 | Begins Feb. 18, 2019</p></li><li><p>Fall 2019 Program |
     Applications close May 31, 2019 | Begins Aug. 26, 2019</p></li></ul>"
 - template: cta
