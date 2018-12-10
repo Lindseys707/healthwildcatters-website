@@ -10,3 +10,7 @@
 .mt-minus-05 {
   margin-top: -.5rem;
 }
+
+.twitter-container iframe {
+  box-shadow: 0 1rem 3rem rgba(52, 58, 64, 0.175) !important;
+}
