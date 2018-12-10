@@ -7,7 +7,7 @@ header_image: https://res.cloudinary.com/health-wildcatters/image/upload/v154447
 ---
 Be at the center of the action. Health Wildcatters offers executive office space on a month-to-month basis as well as dedicated or drop in desk space. In addition, resident companies receive access to all of Health Wildcatters events for maximum opportunities to network and grow.
 
-### Perk
+### Perks
 
 * Coffee, Tea & Snacks
 * Conference Rooms
