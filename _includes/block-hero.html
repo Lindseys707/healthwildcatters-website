@@ -1,14 +1,17 @@
 <section class="height-70 p-0 bg-white">
+
+  <img src="{{ block.background_image }}" alt="" class="bg-image position-md-absolute opacity-100">
+
   <div class="container py-4 height-md-60">
     <div class="row">
       <div class="col-md-7 col-lg-6 spacer-y-3">
 
         {% if block.heading %}
-        <h1 class="display-4">{{ block.heading }}</h1>
+        <h1 class="display-4 text-white">{{ block.heading }}</h1>
         {% endif %}
 
         {% if block.subheading %}
-        <p class="lead">{{ block.subheading }}</p>
+        <p class="lead text-white">{{ block.subheading }}</p>
         {% endif %}
 
       </div>
