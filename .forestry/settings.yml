@@ -26,6 +26,13 @@ sections:
   templates:
   - news
 - type: directory
+  path: _portfolio
+  label: Portfolio
+  create: all
+  match: "**/*"
+  templates:
+  - company-organization
+- type: directory
   path: _sponsors
   label: Sponsors
   create: all
