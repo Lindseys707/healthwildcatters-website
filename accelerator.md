@@ -47,6 +47,7 @@ content_blocks:
     your business forward.</p>"
 - template: mentors
   block_name: mentors
+  limit: '6'
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
   heading: Never miss an update
