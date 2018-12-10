@@ -28,7 +28,7 @@ content_blocks:
   subheading: Ready to take your startup to the next level? Learn more about our nationally-ranked
     healthcare accelerator program and apply to be a member of our next cohort.
   slug: accelerator
-  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544463541/Accelerator%20Banner%20%281%29.jpg
+  background_image: https://res.cloudinary.com/health-wildcatters/image/upload/v1544463669/Accelerator%20Banner%20%283%29.jpg
 - template: accelerator-feature
   block_name: accelerator-feature
   heading: Here's what we have to offer.
