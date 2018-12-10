@@ -41,7 +41,7 @@ content_blocks:
     your business forward.</p>
 - template: cta
   block_name: cta
-  button_text: Apply now
+  button_text: Apply for the 2019 Spring Accelerator Program
   url: https://www.f6s.com/healthwildcatters2019/apply
 - template: mentors
   block_name: mentors
