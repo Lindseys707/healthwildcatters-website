@@ -23,7 +23,7 @@ content_blocks:
     offers the cohort an elevated media presence. As a member of our portfolio investors
     and healthcare executives know where to find quality startups, and after our due
     diligence and vetting process, they consider them to be legitimate investment
-    opportunities.</p><p></p><h3><strong>When</strong></h3><p><strong><br></strong>The
+    opportunities.</p><p></p><p></p><h3><strong>When</strong></h3><p><strong><br></strong>The
     12- week fall program begins late August and ends in the beginning of November,
     and for the first time, in 2019 Health Wildcatters is introducing a 9-week spring
     program which will begin in February.</p><ul><li><p>Spring 2019 Program | Applications
