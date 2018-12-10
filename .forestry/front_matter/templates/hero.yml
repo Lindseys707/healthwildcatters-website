@@ -16,3 +16,6 @@ fields:
 - type: textarea
   name: subheading
   label: Subheading
+- type: file
+  name: background_image
+  label: Background image
