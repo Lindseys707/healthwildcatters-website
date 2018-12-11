@@ -5,7 +5,7 @@
         <div class="row">
 
           {% assign sorted_news = site.news | reverse %}
-          {% for news in site.sorted_news limit:3 %}
+          {% for news in sorted_news limit:3 %}
           <a href="{{ news.link }}" class="card hover-effect w-100">
             <div class="card-body d-flex flex-column justify-content-center py-2">
                 <h4 class="mb-3 mt-2 text-body">{{ news.title }}</h4>
