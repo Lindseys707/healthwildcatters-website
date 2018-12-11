@@ -23,9 +23,10 @@ content_blocks:
   block_name: text-photos
   text: "<p>Some text</p>"
   photos:
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544135601/IMG_0081%20EDITED.jpg
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544475187/Leasing%20Banner.jpg
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544462470/Website%20hero%20banner%201%20%282%29.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558399/Bleachers%20425.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558401/IMG_0088%20EDITED%20%281%29.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558401/IMG_0146.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558130/lg_central_thinking_space_gallery.jpg
 - template: spacer
   block_name: spacer
 - template: newsletter-signup-white
