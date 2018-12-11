@@ -13,6 +13,10 @@ fields:
 - type: textarea
   name: text
   label: Text
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: image_gallery
   name: photos
   label: 'Photos (Max: 3)'
