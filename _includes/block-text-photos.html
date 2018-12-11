@@ -1,26 +1,24 @@
-<section>
-  <div class="container">
-    <div class="row justify-content-around align-items-center">
-      <div class="col-lg-4">
-        {{ block.text }}
-      </div>
-      <div class="col-xl-7 col-md-8">
-        <div class="row align-items-center">
-          <div class="col-6">
-            <a href="{{ block.photos[0] }}" data-fancybox="Gallery-1">
-              <img src="{{ block.photos[0] }}" alt="" class="hover-effect rounded">
-            </a>
-          </div>
-          <div class="col-5">
-            <a href="{{ block.photos[1] }}" data-fancybox="Gallery-1">
-              <img src="{{ block.photos[1] }}" alt="" class="hover-effect rounded mb-3">
-            </a>
-            <a href="{{ block.photos[2] }}" data-fancybox="Gallery-1">
-              <img src="{{ block.photos[2] }}" alt="" class="hover-effect rounded">
-            </a>
-          </div>
+<div class="container">
+  <div class="row justify-content-around align-items-center">
+    <div class="col-lg-4">
+      {{ block.text }}
+    </div>
+    <div class="col-xl-7 col-md-8">
+      <div class="row align-items-center">
+        <div class="col-6">
+          <a href="{{ block.photos[0] }}" data-fancybox="Gallery-1">
+            <img src="{{ block.photos[0] }}" alt="" class="hover-effect rounded">
+          </a>
+        </div>
+        <div class="col-5">
+          <a href="{{ block.photos[1] }}" data-fancybox="Gallery-1">
+            <img src="{{ block.photos[1] }}" alt="" class="hover-effect rounded mb-3">
+          </a>
+          <a href="{{ block.photos[2] }}" data-fancybox="Gallery-1">
+            <img src="{{ block.photos[2] }}" alt="" class="hover-effect rounded">
+          </a>
         </div>
       </div>
     </div>
   </div>
-</section>
+</div>
