@@ -1,0 +1,18 @@
+---
+label: Text and Photos
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: text-photos
+- type: textarea
+  name: text
+  label: Text
+- type: image_gallery
+  name: photos
+  label: 'Photos (Max: 3)'
