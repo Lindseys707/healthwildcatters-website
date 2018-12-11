@@ -80,7 +80,7 @@ content_blocks:
     price: "$699/mo"
     link_text: Learn more
     link_url: "/leasing"
-  - heading: Large
+  - heading: Large w/ window
     text: 1-3 people
     price: "$999/mo"
     link_text: Learn more
