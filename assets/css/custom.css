@@ -57,10 +57,12 @@
   overflow-y: scroll;
 }
 
-.modal-dialog {
-  max-width: 60vw;
-}
-
 .twitter-container iframe {
   box-shadow: 0 1rem 3rem rgba(52, 58, 64, 0.175) !important;
+}
+
+@media (min-width: 768px) {
+  .modal-dialog {
+    max-width: 60vw;
+  }
 }
