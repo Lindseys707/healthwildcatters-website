@@ -4,24 +4,14 @@
       <div class="col-lg-8">
         <div class="row">
 
-          <a href="#" class="card hover-effect">
+          {% for news in site.news limit:3 %}
+          <a href="{{ news.link }}" class="card hover-effect">
             <div class="card-body d-flex flex-column justify-content-center py-2">
-                <h5 class="h3 mb-3 mt-2 text-body">12 healthcare startup incubators and accelerators to know</h5>
-                <p><span class="h6 text-primary">Read More</span></p>
+                <h5 class="h3 mb-3 mt-2 text-body">{{ news.title }}</h5>
+                <p><span class="h5 text-primary">Read More</span></p>
             </div>
           </a>
-          <a href="#" class="card hover-effect">
-            <div class="card-body d-flex flex-column justify-content-center py-2">
-                <h5 class="h3 mb-3 mt-2 text-body">12 healthcare startup incubators and accelerators to know</h5>
-                <p><span class="h6 text-primary">Read More</span></p>
-            </div>
-          </a>
-          <a href="#" class="card hover-effect">
-            <div class="card-body d-flex flex-column justify-content-center py-2">
-                <h5 class="h3 mb-3 mt-2 text-body">12 healthcare startup incubators and accelerators to know</h5>
-                <p><span class="h6 text-primary">Read More</span></p>
-            </div>
-          </a>
+          {% endfor %}
 
         </div>
       </div>
@@ -35,7 +25,7 @@
               <span class="h2 text-white">Looking for more?</span>
             </div>
 
-            <a href="#" class="btn btn-block btn-light btn-lg mb-3">See all news</a>
+            <a href="/news" class="btn btn-block btn-light btn-lg mb-3">See all news</a>
 
           </div>
         </div>
