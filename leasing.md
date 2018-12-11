@@ -26,13 +26,6 @@ content_blocks:
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544135601/IMG_0081%20EDITED.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544475187/Leasing%20Banner.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544462470/Website%20hero%20banner%201%20%282%29.jpg
-- template: slider
-  block_name: slider
-  images:
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544476024/logo-color%20%282%29%20%281%29.png
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544476091/Sentiv-logo.png
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544476239/Halo%20Mountain%20Logo%20%281%29.png
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544476329/ClikRx%20Red%20%281%29.png
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
 menu:
