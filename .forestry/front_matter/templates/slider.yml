@@ -1,0 +1,15 @@
+---
+label: Slider
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: block_name
+  label: Block name
+  hidden: true
+  config:
+    required: true
+  default: slider
+- type: image_gallery
+  name: images
+  label: Images
