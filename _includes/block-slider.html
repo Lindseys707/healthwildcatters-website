@@ -1,11 +1,10 @@
 <div class="container">
-  <div class="row">
+  <div class="row justify-content-around align-items-center">
     <div class="col">
-      <div class="slider-cards" data-flickity='{ "cellAlign": "left", "contain": true, "imagesLoaded": true, "wrapAround": true }'>
-        {% for image in block.images %}
-        <div class="carousel-cell">
-          <img class="rounded" src="{{ image | relative_url }}" alt="">
-        </div>
+      <div class="rounded shadow-lg js-flickity"
+        data-flickity-options='{ "imagesLoaded": true, "percentPosition": false }'>
+        {% for image in block.photos %}
+        <img class="img-fluid" src="{{ image }}" alt="" />
         {% endfor %}
       </div>
     </div>
