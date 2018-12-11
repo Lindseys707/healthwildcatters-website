@@ -19,6 +19,13 @@ content_blocks:
     Walls</p></li><li><p>On-site Notary</p></li><li><p>24/7 Access</p></li><li><p>On-Site
     Security</p></li><li><p>On-Site Coffee Shop and Restaurant</p></li><li><p>Mail
     &amp; Package Handling</p></li><li><p>Pulse Breakfast Membership</p></li></ul>"
+- template: text-and-photos
+  block_name: text-photos
+  text: "<p>Some text</p>"
+  photos:
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544135601/IMG_0081%20EDITED.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544475187/Leasing%20Banner.jpg
+  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544462470/Website%20hero%20banner%201%20%282%29.jpg
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
 menu:
