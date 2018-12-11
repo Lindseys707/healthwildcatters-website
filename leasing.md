@@ -14,7 +14,11 @@ content_blocks:
   text: "<p>Be at the center of the action. Health Wildcatters offers executive office
     space on a month-to-month basis as well as dedicated or drop in desk space. In
     addition, resident companies receive access to all of Health Wildcatters events
-    for maximum opportunities to network and grow.</p>"
+    for maximum opportunities to network and grow.</p><p></p><h3>Perks</h3><ul><li><p>Coffee,
+    Tea &amp; Snacks</p></li><li><p>Conference Rooms</p></li><li><p>Wifi &amp; Printing</p></li><li><p>Whiteboard
+    Walls</p></li><li><p>On-site Notary</p></li><li><p>24/7 Access</p></li><li><p>On-Site
+    Security</p></li><li><p>On-Site Coffee Shop and Restaurant</p></li><li><p>Mail
+    &amp; Package Handling</p></li><li><p>Pulse Breakfast Membership</p></li></ul>"
 - template: spacer
   block_name: spacer
 - template: slider
