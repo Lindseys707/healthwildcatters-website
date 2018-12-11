@@ -26,6 +26,8 @@ content_blocks:
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544135601/IMG_0081%20EDITED.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544475187/Leasing%20Banner.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544462470/Website%20hero%20banner%201%20%282%29.jpg
+- template: spacer
+  block_name: spacer
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
 menu:
