@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="slider-cards" data-flickity='{ "cellAlign": "left", "contain": true, "imagesLoaded": true, "wrapAround": true }'>
+        {% for image in block.images %}
+        <div class="carousel-cell">
+          <img class="rounded" src="{{ image.image }}" alt="">
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
