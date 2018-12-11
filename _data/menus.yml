@@ -2,7 +2,7 @@
 footer_quick_links:
 - weight: 1
   url: "/#events"
-  title: Event Calendar
+  title: Events
 header:
 - url: "/#news"
   weight: 4
