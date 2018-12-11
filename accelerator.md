@@ -32,7 +32,7 @@ content_blocks:
     Applications close May 31, 2019 | Begins Aug. 26, 2019</p></li></ul>"
 - template: cta
   block_name: cta
-  button_text: Apply for the 2019 Spring Accelerator Program
+  button_text: Apply for the Accelerator Program
   url: https://www.f6s.com/healthwildcatters2019/apply
 - template: text
   block_name: text
