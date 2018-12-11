@@ -19,6 +19,8 @@ content_blocks:
     Whiteboard Walls</p><p>* On-site Notary</p><p>* 24/7 Access</p><p>* On-Site Security</p><p>*
     On-Site Coffee Shop and Restaurant</p><p>* Mail &amp; Package Handling</p><p>*
     Pulse Breakfast Membership</p>"
+- template: newsletter-signup-white
+  block_name: newsletter-signup-white
 menu:
   footer_leasing:
     weight: 1
