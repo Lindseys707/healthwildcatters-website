@@ -53,5 +53,9 @@ content_blocks:
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
   heading: Never miss an update
+menu:
+  footer_accelerator:
+    weight: 1
+    title: Overview
 
 ---
