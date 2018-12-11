@@ -7,8 +7,58 @@
 /*
 */
 
+.carousel {
+  height: 80vh;
+}
+
+/* cell inherit height from carousel */
+.carousel-cell {
+  height: 100%;
+}
+
 .mt-minus-05 {
   margin-top: -.5rem;
+}
+
+.flickity-button {
+  background: #333;
+}
+.flickity-button:hover {
+  background: #F90;
+}
+
+.flickity-prev-next-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+}
+/* icon color */
+.flickity-button-icon {
+  fill: white;
+}
+/* position outside */
+.flickity-prev-next-button.previous {
+  left: -120px;
+}
+.flickity-prev-next-button.next {
+  right: -120px;
+}
+
+.flickity-prev-next-button {
+  display: block;
+}
+
+.flickity-prev-next-button:after {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.flickity-viewport {
+  overflow-y: scroll;
+}
+
+.modal-dialog {
+  max-width: 60vw;
 }
 
 .twitter-container iframe {

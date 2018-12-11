@@ -12,3 +12,22 @@
 <script type="text/javascript" src="/assets/js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="/assets/js/zoom.min.js"></script>
 <script type="text/javascript" src="/assets/js/theme.js"></script>
+
+<script>
+  var $carousel = $('.carousel');
+
+  $carousel.flickity({
+    lazyLoad: true,
+    pageDots: false,
+    setGallerySize: false
+  });
+
+  $('.people-index').on( 'click', '.person', function() {
+    var index = $(this).index();
+    $carousel.flickity( 'select', index, false, true );
+  });
+
+  $('.modal').on( 'shown.bs.modal', function( event ) {
+    $carousel.flickity('resize');
+  });
+</script>
