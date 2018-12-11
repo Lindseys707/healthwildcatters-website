@@ -17,6 +17,8 @@ content_blocks:
     for maximum opportunities to network and grow.</p>"
 - template: spacer
   block_name: spacer
+- template: slider
+  block_name: slider
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
 menu:
