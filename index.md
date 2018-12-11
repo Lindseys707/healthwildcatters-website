@@ -70,7 +70,7 @@ content_blocks:
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
-  - heading: Single
+  - heading: Single w/ window
     text: 1 person
     price: "$699/mo"
     link_text: Learn more
