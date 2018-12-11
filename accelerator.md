@@ -48,6 +48,8 @@ content_blocks:
 - template: mentors
   block_name: mentors
   limit: '6'
+- template: portfolio
+  block_name: portfolio
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
   heading: Never miss an update
