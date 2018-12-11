@@ -36,6 +36,8 @@ collections:
     output: true
   news:
     output: true
+  portfolio:
+    output: true
   sponsors:
     output: true
   staff:

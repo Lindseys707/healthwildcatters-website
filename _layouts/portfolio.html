@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+{% include page-header.html %}
+
+<div class="bg-white container mt-5 spacer-y-3">
+  <div class="row justify-content-around">
+    {% for company in site.portfolio %}
+    <div class="col-sm-3 height-1 px-5 py-4 d-flex justify-content-center">
+      <a href="{{ company.link }}"><img class="img-fluid text-dark" src="{{ company.logo }}"
+      alt="{{ company.title }}" style="max-height: 10vh;"></a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% include block-newsletter-signup.html %}
+
+{% include site-footer.html %}
