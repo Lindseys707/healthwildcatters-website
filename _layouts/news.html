@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+{% include page-header.html %}
+
+<section>
+  <div class="container">
+    <div class="row">
+      {% for news in site.news %}
+      <div class="col-12 col-md-6 d-md-flex">
+        <div class="card hover-effect w-100">
+          <div class="card-body d-flex py-4">
+            <div>
+              <h5 class="mb-2">{{ news.title }}</h5>
+              <p class="mb-0"><a href="{{ news.link }}" class="h6 mb-0 text-primary">Read More</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% include block-newsletter-signup.html %}
+
+{% include site-footer.html %}
