@@ -2,7 +2,7 @@
 title: David Humphrey
 date: 2018-12-06 22:05:02 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133932/image.png
+photo: "/assets/img/uploads/image-58.png"
 link_1: ''
 link_2: ''
 link_3: ''
