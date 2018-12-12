@@ -2,7 +2,7 @@
 title: Jim Janicki
 date: 2018-12-06 22:07:29 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134064/image.png
+photo: "/assets/img/uploads/image-61.png"
 link_1: ''
 link_2: ''
 link_3: ''
