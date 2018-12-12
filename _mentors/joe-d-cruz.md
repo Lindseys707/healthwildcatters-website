@@ -2,7 +2,7 @@
 title: Joe D’Cruz
 date: 2018-12-06 21:37:40 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132279/image.png
+photo: "/assets/img/uploads/image-27.png"
 link_1: ''
 link_2: ''
 link_3: ''
