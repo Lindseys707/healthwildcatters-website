@@ -2,7 +2,7 @@
 title: Ryan Scripps
 date: 2018-12-07 15:56:36 +0000
 description: ''
-photo: "/assets/img/uploads/image-101.png"
+photo: "/assets/img/uploads/image-130.png"
 link_1: ''
 link_2: ''
 link_3: ''
