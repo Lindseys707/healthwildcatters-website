@@ -2,7 +2,7 @@
 title: Tessa Hoskin
 date: 2018-12-06 22:04:30 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133889/image.png
+photo: "/assets/img/uploads/image-57.png"
 link_1: ''
 link_2: ''
 link_3: ''
