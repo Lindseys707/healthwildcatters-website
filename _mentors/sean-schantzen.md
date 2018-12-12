@@ -2,7 +2,7 @@
 title: Sean Schantzen
 date: 2018-12-07 15:54:31 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198088/image.png
+photo: "/assets/img/uploads/image-98.png"
 link_1: ''
 link_2: ''
 link_3: ''
