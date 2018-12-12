@@ -2,7 +2,7 @@
 title: Harriett Flowers
 date: 2018-12-06 21:49:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132962/image.png
+photo: "/assets/img/uploads/image-38.png"
 link_1: ''
 link_2: ''
 link_3: ''
