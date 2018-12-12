@@ -2,7 +2,7 @@
 title: Ron Herbert
 date: 2018-12-06 22:00:55 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133680/image.png
+photo: "/assets/img/uploads/image-52.png"
 link_1: ''
 link_2: ''
 link_3: ''
