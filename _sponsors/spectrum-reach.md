@@ -1,7 +1,7 @@
 ---
 title: Spectrum Reach
-date: 2018-12-07 11:05:16 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544202326/image.png
+date: 2018-12-07 17:05:16 +0000
+logo: "/assets/img/uploads/Spectrum_Reach_RGB (2).jpg"
 link: https://www.spectrumreach.com/home
 
 ---
