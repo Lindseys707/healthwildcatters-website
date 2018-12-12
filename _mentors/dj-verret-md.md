@@ -2,7 +2,7 @@
 title: DJ Verret, MD
 date: 2018-12-07 16:21:25 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199694/image.png
+photo: "/assets/img/uploads/image-121.png"
 link_1: ''
 link_2: ''
 link_3: ''
