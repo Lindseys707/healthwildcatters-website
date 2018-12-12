@@ -2,7 +2,7 @@
 title: Jeffrey Adelglass, MD
 date: 2018-12-06 20:45:43 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130794/image.png
+photo: "/assets/img/uploads/image.png"
 link_1: ''
 link_2: ''
 link_3: ''
