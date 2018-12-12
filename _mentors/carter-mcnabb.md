@@ -2,7 +2,7 @@
 title: Carter McNabb
 date: 2018-12-06 22:20:18 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134839/image.png
+photo: "/assets/img/uploads/image-128.png"
 link_1: ''
 link_2: ''
 link_3: ''
