@@ -2,7 +2,7 @@
 title: Aaron Pierce
 date: 2018-12-07 15:44:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197462/image.png
+photo: "/assets/img/uploads/image-86.png"
 link_1: ''
 link_2: ''
 link_3: ''
