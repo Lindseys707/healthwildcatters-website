@@ -2,7 +2,7 @@
 title: Ken Nelson
 date: 2018-12-06 22:24:17 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135093/image.png
+photo: "/assets/img/uploads/image-80.png"
 link_1: ''
 link_2: ''
 link_3: ''
