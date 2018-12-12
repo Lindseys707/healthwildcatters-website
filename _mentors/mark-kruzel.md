@@ -2,7 +2,7 @@
 title: Mark Kruzel
 date: 2018-12-06 22:13:28 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134424/image.png
+photo: "/assets/img/uploads/image-69.png"
 link_1: ''
 link_2: ''
 link_3: ''
