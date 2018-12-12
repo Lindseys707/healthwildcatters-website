@@ -2,7 +2,7 @@
 title: Lydia Kinkade
 date: 2018-12-06 22:11:17 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134305/image.png
+photo: "/assets/img/uploads/image-65.png"
 link_1: ''
 link_2: ''
 link_3: ''
