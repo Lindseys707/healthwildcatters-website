@@ -2,7 +2,7 @@
 title: Hubert Zajicek, MD
 date: 2018-12-07 16:24:44 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199902/image.png
+photo: "/assets/img/uploads/image-127.png"
 link_1: ''
 link_2: ''
 link_3: ''
