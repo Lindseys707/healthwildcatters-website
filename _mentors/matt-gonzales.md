@@ -2,7 +2,7 @@
 title: Matt Gonzales
 date: 2018-12-06 21:54:50 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133306/image.png
+photo: "/assets/img/uploads/image-45.png"
 link_1: ''
 link_2: ''
 link_3: ''
