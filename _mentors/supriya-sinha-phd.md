@@ -2,7 +2,7 @@
 title: Supriya Sinha, PhD
 date: 2018-12-07 15:59:54 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198411/image.png
+photo: "/assets/img/uploads/image-105.png"
 link_1: ''
 link_2: ''
 link_3: ''
