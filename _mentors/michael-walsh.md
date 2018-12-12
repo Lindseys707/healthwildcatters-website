@@ -2,7 +2,7 @@
 title: Michael Walsh
 date: 2018-12-07 16:22:27 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199765/image.png
+photo: "/assets/img/uploads/image-123.png"
 link_1: ''
 link_2: ''
 link_3: ''
