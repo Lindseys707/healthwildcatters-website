@@ -22,12 +22,14 @@ content_blocks:
 - template: slider
   block_name: slider
   images:
+  - "/assets/img/uploads/IMG_0094 EDITED (1).jpg"
+  - "/assets/img/uploads/IMG_0102.JPG"
+  - "/assets/img/uploads/IMG_0154.JPG"
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544561191/IMG_0110.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544561191/IMG_0100.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544135601/IMG_0081%20EDITED.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558401/IMG_0146.jpg
   - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558401/IMG_0088%20EDITED%20%281%29.jpg
-  - https://res.cloudinary.com/health-wildcatters/image/upload/v1544558399/Bleachers%20425.jpg
 - template: spacer
   block_name: spacer
 - template: newsletter-signup-white
