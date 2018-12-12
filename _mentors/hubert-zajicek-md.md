@@ -2,7 +2,7 @@
 title: Hubert Zajicek, MD
 date: 2018-12-07 16:24:44 +0000
 description: ''
-photo: "/assets/img/uploads/image-127.png"
+photo: "/assets/img/uploads/HZ Headshot-1.JPG"
 link_1: ''
 link_2: ''
 link_3: ''
