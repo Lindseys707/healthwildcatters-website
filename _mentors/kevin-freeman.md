@@ -2,7 +2,7 @@
 title: Kevin Freeman
 date: 2018-12-06 21:49:40 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132995/image.png
+photo: "/assets/img/uploads/image-39.png"
 link_1: ''
 link_2: ''
 link_3: ''
