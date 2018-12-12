@@ -2,7 +2,7 @@
 title: Aaron Perkins
 date: 2018-12-06 22:38:25 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135961/image.png
+photo: "/assets/img/uploads/image-84.png"
 link_1: ''
 link_2: ''
 link_3: ''
