@@ -2,7 +2,7 @@
 title: Dave Stiles
 date: 2018-12-07 16:10:25 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199046/image.png
+photo: "/assets/img/uploads/image-110.png"
 link_1: ''
 link_2: ''
 link_3: ''
