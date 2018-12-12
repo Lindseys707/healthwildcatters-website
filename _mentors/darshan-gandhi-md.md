@@ -2,7 +2,7 @@
 title: Darshan Gandhi, MD
 date: 2018-12-06 21:51:30 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133115/image.png
+photo: "/assets/img/uploads/image-41.png"
 link_1: ''
 link_2: ''
 link_3: ''
