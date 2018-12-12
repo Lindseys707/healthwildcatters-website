@@ -2,7 +2,7 @@
 title: Jennifer Lee Soderstrom
 date: 2018-12-07 16:08:32 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198933/image.png
+photo: "/assets/img/uploads/image-109.png"
 link_1: ''
 link_2: ''
 link_3: ''
