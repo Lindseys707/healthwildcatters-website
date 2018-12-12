@@ -44,8 +44,10 @@
   right: -120px;
 }
 
-.flickity-prev-next-button {
-  display: block;
+@media (min-width: 768px) {
+  .flickity-prev-next-button {
+    display: block;
+  }
 }
 
 .flickity-prev-next-button:after {

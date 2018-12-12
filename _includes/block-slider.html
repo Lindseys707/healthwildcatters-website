@@ -2,7 +2,7 @@
   <div class="row justify-content-around align-items-center">
     <div class="col-12">
       <div class="rounded shadow-lg js-flickity"
-        data-flickity-options='{ "draggable": false, "imagesLoaded": true, "percentPosition": false }'>
+        data-flickity-options='{ "imagesLoaded": true, "percentPosition": false }'>
         {% for image in block.images %}
         <img src="{{ image }}" alt="" />
         {% endfor %}
