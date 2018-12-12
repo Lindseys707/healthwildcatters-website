@@ -2,7 +2,7 @@
 title: Jason Signor
 date: 2018-12-07 15:58:53 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198348/image.png
+photo: "/assets/img/uploads/image-103.png"
 link_1: ''
 link_2: ''
 link_3: ''
