@@ -2,7 +2,7 @@
 title: Kerry Rupp
 date: 2018-12-07 15:53:37 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198031/image.png
+photo: "/assets/img/uploads/image-97.png"
 link_1: ''
 link_2: ''
 link_3: ''
