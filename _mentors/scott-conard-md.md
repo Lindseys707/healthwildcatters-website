@@ -2,7 +2,7 @@
 title: Scott Conard, MD
 date: 2018-12-06 21:31:19 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131896/image.png
+photo: "/assets/img/uploads/image-19.png"
 link_1: ''
 link_2: ''
 link_3: ''
