@@ -2,7 +2,7 @@
 title: Richard Burghardt
 date: 2018-12-06 21:24:50 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131513/image.png
+photo: "/assets/img/uploads/image-14.png"
 link_1: ''
 link_2: ''
 link_3: ''
