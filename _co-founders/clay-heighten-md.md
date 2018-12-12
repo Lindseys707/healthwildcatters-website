@@ -2,7 +2,7 @@
 title: Clay Heighten, MD
 date: 2018-12-07 18:16:24 +0000
 description: Co-Founder & Partner
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544206604/Heighten%20Clay.jpg
+photo: "/assets/img/uploads/Heighten Clay (1).jpg"
 link_1: ''
 link_2: ''
 link_3: ''
