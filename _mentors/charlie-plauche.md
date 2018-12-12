@@ -2,7 +2,7 @@
 title: Charlie Plauche
 date: 2018-12-07 15:44:50 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197509/image.png
+photo: "/assets/img/uploads/image-87.png"
 link_1: ''
 link_2: ''
 link_3: ''
