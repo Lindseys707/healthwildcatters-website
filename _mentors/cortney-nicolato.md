@@ -2,7 +2,7 @@
 title: John Oberg
 date: 2018-12-06 22:25:45 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135243/image.png
+photo: "/assets/img/uploads/image-81.png"
 link_1: ''
 link_2: ''
 link_3: ''
