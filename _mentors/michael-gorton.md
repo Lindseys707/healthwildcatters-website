@@ -2,7 +2,7 @@
 title: Michael Gorton
 date: 2018-12-06 21:55:23 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133351/image.png
+photo: "/assets/img/uploads/image-46.png"
 link_1: ''
 link_2: ''
 link_3: ''
