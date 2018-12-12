@@ -2,7 +2,7 @@
 title: Vinny Jindal
 date: 2018-12-06 22:08:47 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134146/image.png
+photo: "/assets/img/uploads/image-62.png"
 link_1: ''
 link_2: ''
 link_3: ''
