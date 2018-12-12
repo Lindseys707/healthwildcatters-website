@@ -2,7 +2,7 @@
 title: Humberto C. Antunes
 date: 2018-12-06 20:52:06 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130709/image.png
+photo: "/assets/img/uploads/image-2.png"
 link_1: ''
 link_2: ''
 link_3: ''
