@@ -2,7 +2,7 @@
 title: Mitun Ranka
 date: 2018-12-07 15:47:52 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197692/image.png
+photo: "/assets/img/uploads/image-89.png"
 link_1: ''
 link_2: ''
 link_3: ''
