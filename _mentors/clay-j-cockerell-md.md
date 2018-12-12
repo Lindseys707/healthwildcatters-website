@@ -2,7 +2,7 @@
 title: Clay J. Cockerell, MD
 date: 2018-12-06 21:29:19 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131776/image.png
+photo: "/assets/img/uploads/image-18.png"
 link_1: ''
 link_2: ''
 link_3: ''
