@@ -25,6 +25,7 @@ baseurl: ''
 cloudinaryurl: 'https://res.cloudinary.com/health-wildcatters/image/upload'
 description: ''
 google_analytics: 'UA-40198461-1'
+logo: '/assets/img/logo.svg'
 permalink: pretty
 title: 'Health Wildcatters'
 url: 'https://www.healthwildcatters.com'
