@@ -2,7 +2,7 @@
 title: Kirk Anderson
 date: 2018-12-06 20:51:29 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544130742/image.png
+photo: "/assets/img/uploads/image-1.png"
 link_1: ''
 link_2: ''
 link_3: ''
