@@ -2,7 +2,7 @@
 title: Mary Jean Geroulo
 date: 2018-12-06 21:54:06 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133254/image.png
+photo: "/assets/img/uploads/image-44.png"
 link_1: ''
 link_2: ''
 link_3: ''
