@@ -2,7 +2,7 @@
 title: Jeff Reich
 date: 2018-12-07 15:49:36 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197795/image.png
+photo: "/assets/img/uploads/image-90.png"
 link_1: ''
 link_2: ''
 link_3: ''
