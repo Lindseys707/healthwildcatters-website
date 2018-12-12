@@ -1,8 +1,8 @@
 ---
 title: Scott Jacobson
-date: 2018-12-06 22:06:19 +0000
+date: 2018-12-06 16:06:19 -0600
 description: ''
-photo: ''
+photo: "/assets/img/uploads/image-59.png"
 link_1: ''
 link_2: ''
 link_3: ''
