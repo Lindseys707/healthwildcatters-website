@@ -2,7 +2,7 @@
 title: Matt Himelfarb
 date: 2018-12-06 22:02:40 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133779/image.png
+photo: "/assets/img/uploads/image-54.png"
 link_1: ''
 link_2: ''
 link_3: ''
