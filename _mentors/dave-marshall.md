@@ -2,7 +2,7 @@
 title: Dave Marshall
 date: 2018-12-06 22:17:46 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134687/image.png
+photo: "/assets/img/uploads/image-72.png"
 link_1: ''
 link_2: ''
 link_3: ''
