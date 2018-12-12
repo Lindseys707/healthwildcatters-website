@@ -1,7 +1,7 @@
 ---
 title: Global HR Research
-date: 2018-12-07 10:50:08 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544201413/image.png
+date: 2018-12-07 16:50:08 +0000
+logo: "/assets/img/uploads/globalGHR LOGO prehire Dark Blue (2).png"
 link: https://www.ghrr.com
 
 ---
