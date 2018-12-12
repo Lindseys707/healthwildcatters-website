@@ -2,7 +2,7 @@
 title: 'Steven Boyd '
 date: 2018-12-06 21:22:39 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131382/image.png
+photo: "/assets/img/uploads/image-12.png"
 link_1: ''
 link_2: ''
 link_3: ''
