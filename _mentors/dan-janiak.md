@@ -2,7 +2,7 @@
 title: Dan Janiak
 date: 2018-12-06 22:07:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134032/image.png
+photo: "/assets/img/uploads/image-60.png"
 link_1: ''
 link_2: ''
 link_3: ''
