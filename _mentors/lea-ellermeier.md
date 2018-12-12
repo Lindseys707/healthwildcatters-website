@@ -2,7 +2,7 @@
 title: Lea Ellermeier
 date: 2018-12-06 21:44:17 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132764/image.png
+photo: "/assets/img/uploads/image-33.png"
 link_1: ''
 link_2: ''
 link_3: ''
