@@ -2,7 +2,7 @@
 title: Hal Rose
 date: 2018-12-07 15:52:26 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197966/image.png
+photo: "/assets/img/uploads/image-95.png"
 link_1: ''
 link_2: ''
 link_3: ''
