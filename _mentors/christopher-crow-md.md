@@ -2,7 +2,7 @@
 title: Christopher Crow, MD
 date: 2018-12-06 21:34:41 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132106/image.png
+photo: "/assets/img/uploads/image-24.png"
 link_1: ''
 link_2: ''
 link_3: ''
