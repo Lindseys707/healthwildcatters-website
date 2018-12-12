@@ -2,7 +2,7 @@
 title: Dan Dodson
 date: 2018-12-06 21:42:11 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132549/image.png
+photo: "/assets/img/uploads/image-30.png"
 link_1: ''
 link_2: ''
 link_3: ''
