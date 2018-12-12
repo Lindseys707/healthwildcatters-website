@@ -2,7 +2,7 @@
 title: Michael Schornstein
 date: 2018-12-07 15:56:01 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198180/image.png
+photo: "/assets/img/uploads/image-100.png"
 link_1: ''
 link_2: ''
 link_3: ''
