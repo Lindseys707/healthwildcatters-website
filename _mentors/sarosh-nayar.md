@@ -2,7 +2,7 @@
 title: Sarosh Nayar
 date: 2018-12-06 22:23:51 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135043/image.png
+photo: "/assets/img/uploads/image-79.png"
 link_1: ''
 link_2: ''
 link_3: ''
