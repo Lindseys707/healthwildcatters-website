@@ -2,7 +2,7 @@
 title: Tom White
 date: 2018-12-07 16:23:31 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199832/image.png
+photo: "/assets/img/uploads/image-125.png"
 link_1: ''
 link_2: ''
 link_3: ''
