@@ -2,7 +2,7 @@
 title: Kishore Khandavalli
 date: 2018-12-06 22:09:58 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134228/image.png
+photo: "/assets/img/uploads/image-63.png"
 link_1: ''
 link_2: ''
 link_3: ''
