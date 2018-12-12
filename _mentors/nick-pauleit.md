@@ -2,7 +2,7 @@
 title: Nick Pauleit
 date: 2018-12-06 22:37:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544135840/image.png
+photo: "/assets/img/uploads/image-82.png"
 link_1: ''
 link_2: ''
 link_3: ''
