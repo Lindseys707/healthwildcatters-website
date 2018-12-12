@@ -2,7 +2,7 @@
 title: Tim Thomasson
 date: 2018-12-07 16:19:38 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544199596/image.png
+photo: "/assets/img/uploads/image-119.png"
 link_1: ''
 link_2: ''
 link_3: ''
