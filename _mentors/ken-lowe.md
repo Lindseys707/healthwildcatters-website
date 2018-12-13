@@ -2,7 +2,7 @@
 title: Ken Lowe
 date: 2018-12-06 22:16:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134578/image.png
+photo: "/assets/img/uploads/image-137.png"
 link_1: ''
 link_2: ''
 link_3: ''
