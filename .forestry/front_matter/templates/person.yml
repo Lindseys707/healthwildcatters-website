@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/mark-denissen.md
 - _mentors/nick-pauleit.md
 - _mentors/david-albert-m-d.md
 - _mentors/david-amor.md
@@ -114,7 +115,6 @@ pages:
 - _mentors/adam-cohen.md
 - _mentors/charlie-plauche.md
 - _mentors/peter-gottlieb.md
-- _mentors/mark-denissen.md
 - _mentors/solome-tibebu.md
 - _mentors/dave-marshall.md
 - _mentors/ken-lowe.md
