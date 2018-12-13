@@ -11,8 +11,8 @@
 
       {% for sponsor in site.sponsors %}
       <div class="col-sm-3 height-1 px-5 py-4 d-flex justify-content-center">
-        <img class="img-fluid text-dark" src="{{ sponsor.logo }}"
-        alt="{{ sponsor.title }}" style="max-height: 10vh;">
+        <a href="{{ sponsor.link }}"><img class="img-fluid text-dark" src="{{ sponsor.logo }}"
+        alt="{{ sponsor.title }}" style="max-height: 10vh;"></a>
       </div>
       {% endfor %}
 
