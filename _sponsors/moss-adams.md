@@ -1,7 +1,7 @@
 ---
 title: Moss Adams
-date: 2018-12-07 10:59:24 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544201973/image.png
+date: 2018-12-07 16:59:24 +0000
+logo: "/assets/img/uploads/image-147.png"
 link: https://www.mossadams.com/home
 
 ---
