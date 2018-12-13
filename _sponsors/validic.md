@@ -1,7 +1,7 @@
 ---
 title: Validic
-date: 2018-12-07 11:09:04 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544202553/image.png
+date: 2018-12-07 17:09:04 +0000
+logo: "/assets/img/uploads/image-149.png"
 link: https://validic.com
 
 ---
