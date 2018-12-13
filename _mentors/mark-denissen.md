@@ -2,7 +2,7 @@
 title: Mark Denissen
 date: 2018-12-06 21:39:43 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132405/image.png
+photo: "/assets/img/uploads/image-134.png"
 link_1: ''
 link_2: ''
 link_3: ''
