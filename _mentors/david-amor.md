@@ -2,7 +2,7 @@
 title: David Amor
 date: 2018-12-06 20:49:19 +0000
 description: ''
-photo: "/assets/img/uploads/Amor David.jpg"
+photo: "/assets/img/uploads/image-140.png"
 link_1: ''
 link_2: ''
 link_3: ''
