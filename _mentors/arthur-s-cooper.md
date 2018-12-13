@@ -2,7 +2,7 @@
 title: Arthur S. Cooper
 date: 2018-12-06 21:31:50 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544131942/image.png
+photo: "/assets/img/uploads/image-132.png"
 link_1: ''
 link_2: ''
 link_3: ''
