@@ -4,3 +4,8 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+
+[[redirects]]
+  from = "https://healthwildcatters.netlify.com/*"
+  to = "https://www.healthwildcatters.com/:splat"
+  status = 301!
