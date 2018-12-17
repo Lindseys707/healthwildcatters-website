@@ -8,4 +8,4 @@
 [[redirects]]
   from = "https://healthwildcatters.netlify.com/*"
   to = "https://www.healthwildcatters.com/:splat"
-  status = 301!
+  status = 301
