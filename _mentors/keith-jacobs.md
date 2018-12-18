@@ -2,7 +2,7 @@
 title: Keith Jacobs
 date: 2018-12-18 11:31:45 -0600
 description: ''
-photo: "/assets/img/uploads/headshot.jpg"
+photo: "/assets/img/uploads/headshot-1.jpg"
 link_1: ''
 link_2: ''
 link_3: ''
