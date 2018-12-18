@@ -2,7 +2,7 @@
 title: Mark Stachiw
 date: 2018-12-07 16:09:13 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198980/image.png
+photo: "/assets/img/uploads/image-164.png"
 link_1: ''
 link_2: ''
 link_3: ''
