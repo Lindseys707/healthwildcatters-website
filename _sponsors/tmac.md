@@ -1,7 +1,7 @@
 ---
 title: TMAC
-date: 2018-12-07 11:08:28 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544202520/image.png
+date: 2018-12-07 17:08:28 +0000
+logo: "/assets/img/uploads/image-166.png"
 link: http://tmac.org
 
 ---
