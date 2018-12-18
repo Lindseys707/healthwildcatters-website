@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/raki-shah.md
 - _mentors/woody-gandy-md.md
 - _mentors/peter-gottlieb.md
 - _mentors/mike-harbut.md
@@ -99,7 +100,6 @@ pages:
 - _mentors/mark-kraemer.md
 - _mentors/scott-jacobson.md
 - _mentors/jason-signor.md
-- _mentors/raki-shah.md
 - _mentors/dj-verret-md.md
 - _mentors/ray-larson.md
 - _mentors/steven-shapiro-md.md
