@@ -1,7 +1,7 @@
 ---
 title: MediBookr
-date: 2018-12-10 14:33:43 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544474073/image.png
+date: 2018-12-10 20:33:43 +0000
+logo: "/assets/img/uploads/Medibookr.png"
 link: https://www.medibookr.com
 
 ---
