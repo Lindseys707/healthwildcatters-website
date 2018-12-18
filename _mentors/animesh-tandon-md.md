@@ -19,4 +19,6 @@ Dr. Tandon’s current clinical and research interests are:
 * 3D printing, 3D modeling, 3D visualization, virtual reality, and augmented reality for improved visualization of and pre-interventional planning for congenital heart disease
 * Development and validation of new, advanced cardiac MRI and other imaging techniques for use in pediatric cardiology/congenital heart disease
 
-Expertise: Pediatrics ∙ Cardiology ∙ Mobile Health
+He is an outspoken proponent of bringing innovative ideas to pediatrics. He is co-founder of VARYFII Imaging, a company developing virtual reality surgical planning software; is a mentor for Health Wildcatters, a local incubator, and the UT Southwestern Biomedical Innovation program; and has judged national pitch competitions at the American Heart Association.
+
+He currently serves on the American Heart Association Center for Health Technology &amp; Innovation (CHTI) Health Technology Advisory Group (HTAG); is the co-chair of the American Academy of Pediatrics Section of Cardiology and Cardiac Surgery Early Career Working Group; serves on the American College of Cardiology Early Career Section Leadership Council; and the Society of Cardiac Magnetic Resonance 3D+ Special Interest Group Steering Committee.
