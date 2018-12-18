@@ -2,7 +2,7 @@
 title: Raki Shah
 date: 2018-12-07 15:57:18 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198254/image.png
+photo: "/assets/img/uploads/image-161.png"
 link_1: ''
 link_2: ''
 link_3: ''
