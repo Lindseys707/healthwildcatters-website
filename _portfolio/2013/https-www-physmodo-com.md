@@ -1,7 +1,7 @@
 ---
 title: Physmodo
-date: 2018-12-10 13:39:29 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544470910/image.png
+date: 2018-12-10 19:39:29 +0000
+logo: "/assets/img/uploads/physmodo.png"
 link: https://www.physmodo.com
 
 ---
