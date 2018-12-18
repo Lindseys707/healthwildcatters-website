@@ -2,7 +2,7 @@
 title: Scott Smith
 date: 2018-12-07 16:01:00 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544198483/image.png
+photo: "/assets/img/uploads/image-162.png"
 link_1: ''
 link_2: ''
 link_3: ''

@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/mark-stachiw.md
 - _mentors/raki-shah.md
 - _mentors/woody-gandy-md.md
 - _mentors/peter-gottlieb.md
@@ -103,7 +104,6 @@ pages:
 - _mentors/dj-verret-md.md
 - _mentors/ray-larson.md
 - _mentors/steven-shapiro-md.md
-- _mentors/mark-stachiw.md
 - _mentors/tim-thomasson.md
 - _mentors/frank-mceachern.md
 - _mentors/greg-boyd.md
