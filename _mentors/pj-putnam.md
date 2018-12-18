@@ -2,7 +2,7 @@
 title: PJ Putnam
 date: 2018-12-07 15:46:55 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544197638/image.png
+photo: "/assets/img/uploads/image-160.png"
 link_1: ''
 link_2: ''
 link_3: ''
