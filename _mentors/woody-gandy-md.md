@@ -2,7 +2,7 @@
 title: Woody Gandy, MD
 date: 2018-12-06 21:52:18 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544133158/image.png
+photo: "/assets/img/uploads/image-152.png"
 link_1: ''
 link_2: ''
 link_3: ''
