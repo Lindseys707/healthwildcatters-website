@@ -2,7 +2,7 @@
 title: Ray Larson
 date: 2018-12-06 22:13:58 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134453/image.png
+photo: "/assets/img/uploads/image-157.png"
 link_1: ''
 link_2: ''
 link_3: ''
