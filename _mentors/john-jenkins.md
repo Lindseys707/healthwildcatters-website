@@ -2,7 +2,7 @@
 title: John Jenkins
 date: 2018-12-06 22:07:59 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134110/image.png
+photo: "/assets/img/uploads/image-155.png"
 link_1: ''
 link_2: ''
 link_3: ''
