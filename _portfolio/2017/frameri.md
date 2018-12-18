@@ -1,7 +1,7 @@
 ---
 title: Frameri
-date: 2018-12-10 14:56:02 -0600
-logo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544475433/image.png
-link: https://www.frameri.com
+date: 2018-12-10 20:56:02 +0000
+logo: "/assets/img/uploads/sam pellerito - Frameri Logo.jpg"
+link: ''
 
 ---
