@@ -2,7 +2,7 @@
 title: Steve Kearney
 date: 2018-12-06 22:09:25 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544134184/image.png
+photo: "/assets/img/uploads/image-156.png"
 link_1: ''
 link_2: ''
 link_3: ''
