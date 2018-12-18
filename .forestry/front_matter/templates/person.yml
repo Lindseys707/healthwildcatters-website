@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/woody-gandy-md.md
 - _mentors/mark-denissen.md
 - _mentors/jay-oyakawa.md
 - _mentors/nick-pauleit.md
@@ -119,7 +120,6 @@ pages:
 - _mentors/dave-marshall.md
 - _mentors/ken-lowe.md
 - _mentors/william-paiva.md
-- _mentors/woody-gandy-md.md
 - _mentors/mike-harbut.md
 - _mentors/rebecca-dubowy-posten-md.md
 - _mentors/robert-faber.md
