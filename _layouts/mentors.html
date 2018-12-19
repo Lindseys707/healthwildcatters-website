@@ -8,7 +8,8 @@ layout: default
 
 <div class="container spacer-y-3">
   <div class="people-index row data-flickity">
-    {% for person in site.mentors %}
+    {% assign mentors = site.mentors | sort: 'title'  %}
+    {% for person in mentors %}
     <div class="person col-6 col-lg-3 d-flex"> <a data-toggle="modal" data-target="#exampleModalCenter" class="card text-center flex-fill hover-effect">
         <div class="card-body d-flex flex-column align-items-center justify-content-center py-2">
           <img src="{{ person.photo }}" class="rounded mt-2 mb-3" alt="{{ person.title }}">
@@ -30,7 +31,7 @@ layout: default
       </div>
       <div class="modal-body">
         <div class="carousel">
-          {% for person in site.mentors %}
+          {% for person in mentors %}
           <div class="container">
             <img data-flickity-lazyload="{{ person.photo }}" class="rounded mt-2 mb-3 w-25" alt="{{ person.title }}">
             <h1>{{ person.title }}</h1>
