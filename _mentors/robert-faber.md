@@ -2,7 +2,7 @@
 title: Robert Faber
 date: 2018-12-06 21:47:02 +0000
 description: ''
-photo: https://res.cloudinary.com/health-wildcatters/image/upload/v1544132847/image.png
+photo: "/assets/img/uploads/Faber Robert.png"
 link_1: ''
 link_2: ''
 link_3: ''
