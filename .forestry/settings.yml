@@ -12,6 +12,13 @@ sections:
   templates:
   - person
 - type: directory
+  path: _hia
+  label: HIA
+  create: all
+  match: "**/*"
+  templates:
+  - company-organization
+- type: directory
   path: _mentors
   label: Mentors
   create: all
