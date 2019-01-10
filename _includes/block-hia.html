@@ -1,0 +1,21 @@
+<section>
+  <div class="container">
+
+    <div class="row text-center mb-5">
+      <div class="col">
+        <span class="h2 d-block">Health Investor Alliance (HIA)</span>
+      </div>
+    </div>
+
+    <div class="hia-index row data-flickity">
+      {% for company in site.hia %}
+      <div class="col-6 col-lg-3 d-flex"> <a href="{{ company.link }}" class="card text-center flex-fill hover-effect">
+          <div class="card-body d-flex flex-column align-items-center justify-content-center py-2">
+            <img src="{{ company.logo }}" class="rounded mt-2 mb-3" alt="{{ person.title }}">
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

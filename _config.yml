@@ -33,6 +33,8 @@ url: 'https://www.healthwildcatters.com'
 collections:
   co-founders:
     output: true
+  hia:
+    output: true
   mentors:
     output: true
   news:
