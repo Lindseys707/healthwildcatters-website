@@ -50,6 +50,8 @@ content_blocks:
   limit: '6'
 - template: portfolio
   block_name: portfolio
+- template: hia
+  block_name: hia
 - template: newsletter-signup-white
   block_name: newsletter-signup-white
   heading: Never miss an update
