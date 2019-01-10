@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/paolo-privitera.md
 - _mentors/mark-stachiw.md
 - _mentors/solome-tibebu.md
 - _mentors/raki-shah.md
