@@ -2,7 +2,7 @@
 title: Robert Brownd
 date: 2018-12-06 21:23:35 +0000
 description: ''
-photo: "/assets/img/uploads/image-13.png"
+photo: "/assets/img/uploads/Brownd Robert-1.jpg"
 link_1: ''
 link_2: ''
 link_3: ''
