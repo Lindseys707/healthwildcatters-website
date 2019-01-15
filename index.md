@@ -76,7 +76,7 @@ content_blocks:
     link_text: Learn more
     link_url: "/leasing"
   - heading: Medium
-    text: 1-2 people
+    text: 1-2 people  [WAITLIST]
     price: "$699/mo"
     link_text: Learn more
     link_url: "/leasing"
