@@ -7,7 +7,6 @@ link_2: ''
 link_3: ''
 link_4: ''
 date: 2019-01-24 13:03:55 -0600
-published: false
 
 ---
 Paul Szablowski is an independent consultant and thought leader and former
