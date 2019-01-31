@@ -3,17 +3,7 @@
     <div class="row justify-content-center">
       <div class="col-xl-9 col-lg-10">
 
-        {% if block.heading %}
-        <span class="d-block h3">{{ block.heading }}</span>
-        {% else %}
-        <span class="d-block h3">Never miss an update</span>
-        {% endif %}
-
         {% include newsletter-signup-form.html %}
-
-        <div class="d-md-flex align-items-center">
-          <span class="d-block text-small">* We'll never share your email with third parties</span>
-        </div>
 
       </div>
     </div>
