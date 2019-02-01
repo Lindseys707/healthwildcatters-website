@@ -100,6 +100,7 @@ content_blocks:
   call_to_action:
     text: Have more questions? Want to take a tour?
     link_text: Contact us
+    link_url: "/contact"
 - template: section-header
   block_name: section-header
   heading: News
