@@ -9,14 +9,14 @@ link_3: ''
 link_4: ''
 
 ---
-Michael is a start-up founder and chief marketing officer.  He monetizes innovation, creates market disruption and brand & product differentiation.
+Michael mentors and advises start-ups and early stage companies. He works with founders to build results-focused investor and customer pitches and go-to-market strategies, which are specifically designed to create audience engagement within 90 seconds.
 
-Michael mentors and advises start-ups and early stage companies. His go-to-market development strategy laser focuses on generating a start-up’s first $1 million.
+● Advisory Boards: Vessel, Glass Media, Command Hound and KnKt’d Mental Health - plus two stealth initiatives
 
-He is on the advisory board of KnKt’d Mental Health, Glass Media and CommandHound Software. Michael serves as a mentor at Health Wildcatters, The Dallas Entrepreneurial Center, and RevTech.
+● Mentor: WeWork Labs, Capital Factory, Health Wildcatters, RevTech Ventures (2018 Coach of The Year)
 
-In 2009 Michael developed, funded and launched Open Circle, LLC, a Patent Pending online donor acquisition, sales and social retention marketing platform, which integrates the power of social community, digital marketing and financial services.
+Michael is a bootstrap start-up founder, CMO, and advisory board member. He monetizes innovation, creates market disruption and brand & product differentiation in start-up, turn-around and high-growth environments. A hands-on leader, Michael has a builder and fixer’s DNA and thrives on productivity. He leads from the front and has a track record of building highly productive goal-oriented teams of winners.
 
-Prior to Open Circle, Michael spent 25 years in executive/officer leadership roles. Organizations such as, Interpublic Advertising, Yahoo!, Warnaco, VF Corp and Haggar, have recruited Michael to deliver finance centric Marketing ROI.
+In 2009 Michael developed, funded and launched Open Circle, LLC, a Patent Pending online donor acquisition, sales and social retention marketing platform, which was specifically built to increase the donor base while reducing acquisition and gift costs. Prior to Open Circle, Michael spent 20 years in executive leadership roles – P&L, integrated (digital & traditional) marketing & advertising, digital media and e-commerce. Organizations such as Yahoo!, Interpublic /TM Advertising, Warnaco, VF Corp and Haggar have recruited Michael to deliver finance-centric Marketing ROI.
 
-Michael is a graduate of Vanderbilt’s Owen Graduate School of Management (MBA/Marketing), Tulane University’s College of Arts & Sciences (BA w/Honors) and Culver Military Academy. He is a member of the Newcomb College Institute’s Director’s Council. He co-founded the Dallas chapter of The Marketing Executives Networking Group.
+A New Orleans native and aficionado, Michael created NewOrleansAficionado.com, a guide to eats, drinks and music in the ‘City That Care Forgot.’ He lives in Dallas, TX and is a graduate of Vanderbilt’s Owen Graduate School of Management (MBA/Marketing), Tulane University’s College of Arts & Sciences (BA w/Honors) and Culver Military Academy.
