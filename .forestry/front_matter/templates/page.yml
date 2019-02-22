@@ -26,5 +26,5 @@ fields:
   name: header_image
   label: Header image
 pages:
-- 404.md
 - events.md
+- 404.md
