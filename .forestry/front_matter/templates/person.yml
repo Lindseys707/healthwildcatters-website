@@ -27,6 +27,7 @@ fields:
   name: link_4
   label: Link 4
 pages:
+- _mentors/david-meadows-phd.md
 - _mentors/sunny-nadolsky.md
 - _mentors/dave-copps.md
 - _mentors/chris-hanna.md
