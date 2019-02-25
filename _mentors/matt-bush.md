@@ -7,7 +7,6 @@ link_2: ''
 link_3: ''
 link_4: ''
 date: 2019-02-25 10:12:40 -0600
-published: false
 
 ---
 Dr. Bush is Chief Operating Officer of Questcare Partners, an EmCare acquisition partner that has delivered quality medical services since 1996. Under Dr. Bush’s direction, Questcare has grown into a multi-specialty practice providing services in over 90 facilities in multiple states. Questcare has demonstrated success in combining excellent practitioners with sound management and business expertise to achieve outstanding results for patients, medical staff colleagues, and hospital administration.
