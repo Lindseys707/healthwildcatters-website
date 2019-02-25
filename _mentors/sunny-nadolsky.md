@@ -7,7 +7,6 @@ link_2: ''
 link_3: ''
 link_4: ''
 date: 2019-02-22 12:47:50 -0600
-published: false
 
 ---
 Sunny Nadolsky is the Founder and CEO of MediBookr.com, which is the pioneer in healthcare VBN (value-based navigation) which helps self-insured employers contain and reduce healthcare costs by helping employees/patients navigate healthcare plans and the healthcare selection processes through mobile and web platforms powered by AI and digital technologies, data analytics, and transparency of healthcare providers.
