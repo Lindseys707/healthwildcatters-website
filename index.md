@@ -76,7 +76,7 @@ content_blocks:
     link_text: Learn more
     link_url: "/leasing"
   - heading: Desks starting at
-    text: Dedicated / Drop-in
+    text: Dedicated | Drop-in
     price: "$250/mo"
     link_text: Learn more
     link_url: "/leasing"
