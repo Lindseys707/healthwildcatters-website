@@ -28,7 +28,7 @@ content_blocks:
     entry to Pulse Breakfast + complimentary parking (pulse breakfast ONLY)</p><p>Discounted
     entry to Pulse Lunch</p><p>Discounts to all HW Events</p><p>Preferred seating
     at Pitch Day + free ticket</p><p>Coworking every Wednesday 9am-5pm</p><p>1 hour
-    of conference room space per month</p><p><br></p><p><br></p><p></p>"
+    of conference room space per month</p><p><br></p><p></p>"
 - template: slider
   block_name: slider
   images:
