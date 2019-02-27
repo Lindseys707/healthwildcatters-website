@@ -20,15 +20,15 @@ content_blocks:
     Walls</p></li><li><p>On-site Notary</p></li><li><p>24/7 Access</p></li><li><p>On-Site
     Security</p></li><li><p>On-Site Coffee Shop and Restaurant</p></li><li><p>Mail
     &amp; Package Handling</p></li><li><p>Pulse Breakfast Membership</p></li></ul><p></p><p></p><p></p><p></p><h2>Pulse
-    Membership</h2><p>Purchase an annual membership here on the website (more information
-    to come), or <strong>reach out to lindsey@healthwildcatters.com to set up monthly
-    payments</strong>.</p><p></p><h3>Basic: $29/month or $299/year</h3><p>Free entry
-    to The Pulse Breakfast</p><p>Discounted entry to The Pulse Lunch</p><p>Discounts
-    to all HW events</p><p>Coworking every Wednesday 9am - 5pm</p><p></p><h3>Premium:
-    $39/month or $399/year</h3><p>Free entry to Pulse Breakfast + complimentary parking
-    (pulse breakfast ONLY)</p><p>Discounted entry to Pulse Lunch</p><p>Discounts to
-    all HW Events</p><p>Preferred seating at Pitch Day + free ticket</p><p>Coworking
-    every Wednesday 9am-5pm</p><p>1 hour of conference room space per month</p><p><br></p><p><br></p><p></p>"
+    Membership</h2><p>Purchase an annual membership here on the website (coming soon),
+    or <strong>reach out to lindsey@healthwildcatters.com to set up monthly payments</strong>.</p><p></p><h3>Basic:
+    $29/month or $299/year</h3><p>Free entry to The Pulse Breakfast</p><p>Discounted
+    entry to The Pulse Lunch</p><p>Discounts to all HW events</p><p>Coworking every
+    Wednesday 9am - 5pm</p><p></p><h3>Premium: $39/month or $399/year</h3><p>Free
+    entry to Pulse Breakfast + complimentary parking (pulse breakfast ONLY)</p><p>Discounted
+    entry to Pulse Lunch</p><p>Discounts to all HW Events</p><p>Preferred seating
+    at Pitch Day + free ticket</p><p>Coworking every Wednesday 9am-5pm</p><p>1 hour
+    of conference room space per month</p><p><br></p><p><br></p><p></p>"
 - template: slider
   block_name: slider
   images:
