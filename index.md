@@ -75,9 +75,9 @@ content_blocks:
     price: "$699/mo"
     link_text: Learn more
     link_url: "/leasing"
-  - heading: Medium
-    text: 1-2 people  [WAITLIST]
-    price: "$699/mo"
+  - heading: Desks starting at
+    text: ''
+    price: "$250/mo"
     link_text: Learn more
     link_url: "/leasing"
   - heading: Large w/ window
