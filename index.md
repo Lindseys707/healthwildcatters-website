@@ -70,8 +70,8 @@ content_blocks:
 - template: leasing-feature
   block_name: leasing-feature
   offerings:
-  - heading: Single w/ window
-    text: 1 person
+  - heading: 'Offices starting at '
+    text: Single, Medium, Large
     price: "$699/mo"
     link_text: Learn more
     link_url: "/leasing"
