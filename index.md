@@ -80,9 +80,9 @@ content_blocks:
     price: "$250/mo"
     link_text: Learn more
     link_url: "/leasing"
-  - heading: Large w/ window
-    text: 1-3 people
-    price: "$999/mo"
+  - heading: Pulse Memberships starting at
+    text: 'Basic | Premium '
+    price: "$299/mo"
     link_text: Learn more
     link_url: "/leasing"
   faq:
