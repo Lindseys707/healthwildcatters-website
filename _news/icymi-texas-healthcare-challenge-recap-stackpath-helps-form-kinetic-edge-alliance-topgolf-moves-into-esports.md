@@ -6,6 +6,5 @@ author: David Kirkpatrick
 publication: Dallas Innovates
 link: https://dallasinnovates.com/icymi-texas-healthcare-challenge-recap-stackpath-helps-form-kinetic-edge-alliance-topgolf-moves-into-esports/
 image: "/assets/img/uploads/DallasInnovatesValeryBrozhinskyCaratti_istockphoto.jpg"
-published: false
 
 ---
