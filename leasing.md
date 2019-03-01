@@ -21,7 +21,24 @@ content_blocks:
     Security</p></li><li><p>On-Site Coffee Shop and Restaurant</p></li><li><p>Mail
     &amp; Package Handling</p></li><li><p>Pulse Breakfast Membership</p></li></ul><p></p><p></p><p></p><p></p><h2>Pulse
     Membership</h2><p>Purchase an annual membership here on the website (coming soon),
-    or <strong>reach out to lindsey@healthwildcatters.com to set up monthly payments</strong>.</p><p></p><h3>Basic:
+    or <strong>reach out to lindsey@healthwildcatters.com to set up monthly payments</strong>.</p><p></p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="DVQCHGBA3GY2Q">
+<table>
+<tr><td><input type="hidden" name="on0" value="Annual Memberships">Annual Memberships</td></tr><tr><td><select name="os0">
+	<option value="Basic">Basic $299.00 USD</option>
+	<option value="Premium">Premium $399.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Name">Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on2" value="Email Address">Email Address</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+    <h3>Basic:
     $29/month or $299/year</h3><p>Free entry to The Pulse Breakfast</p><p>Discounted
     entry to The Pulse Lunch</p><p>Discounts to all HW events</p><p>Coworking every
     Wednesday 9am - 5pm</p><p></p><h3>Premium: $39/month or $399/year</h3><p>Free
