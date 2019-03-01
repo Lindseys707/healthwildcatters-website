@@ -1,5 +1,5 @@
 ---
-date: ''
+date: 2019-02-16 00:00:00 -0600
 title: 'Health Wildcatters Hacks Healthcare With First Texas Challenge '
 author: David Kirkpatrick
 publication: Dallas Innovates
