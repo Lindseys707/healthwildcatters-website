@@ -1,5 +1,5 @@
 ---
-date: 2019-03-16 00:00:00 -0500
+date: 2019-02-16 00:00:00 -0600
 title: 'ICYMI: Texas Healthcare Challenge Recap, StackPath Helps Form Kinetic Edge
   Alliance, Topgolf Moves Into Esports'
 author: David Kirkpatrick
