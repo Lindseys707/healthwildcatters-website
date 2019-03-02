@@ -12,7 +12,7 @@ fields:
   default: code
 - type: textarea
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: html
   label: code
