@@ -1,0 +1,15 @@
+---
+label: Code
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: Block name
+  name: block_name
+  hidden: true
+  config:
+    required: true
+  default: code
+- type: text
+  name: code
+  label: code
