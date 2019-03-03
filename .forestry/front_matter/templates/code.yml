@@ -10,10 +10,9 @@ fields:
   config:
     required: true
   default: code
-- type: textarea
-  config:
-    wysiwyg: false
-    schema:
-      format: html
-  label: code
+- type: text
   name: code
+  label: code
+- type: text
+  name: custom_css
+  label: Custom CSS
