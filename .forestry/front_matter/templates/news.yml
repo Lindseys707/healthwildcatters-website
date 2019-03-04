@@ -24,6 +24,7 @@ fields:
   name: image
   label: Image
 pages:
+- _news/texas-booming-life-sciences-sector-draws-financial-advisory-firm-to-dallas.md
 - _news/health-wildcatters-hacks-healthcare-with-first-texas-challenge.md
 - _news/icymi-texas-healthcare-challenge-recap-stackpath-helps-form-kinetic-edge-alliance-topgolf-moves-into-esports.md
 - _news/health-wildcatters-recently-honored-by-mit-seeks-new-applicants.md
