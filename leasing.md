@@ -23,7 +23,16 @@ content_blocks:
     Membership</p></li></ul><p></p><h2>Pulse Membership</h2><p>Purchase an annual
     membership here on the website, or <strong>reach out to lindsey@healthwildcatters.com
     to set up monthly payments</strong>.</p>"
-- template: code
+- template: text
+  block_name: text
+  text: "<h3>Basic: $29/month or $299/year     </h3><p><strong>Coworking every Wednesday
+    9am - 5pm</strong></p><p>Free entry to The Pulse Breakfast       </p><p>Discounted
+    entry to The Pulse Lunch</p><p>Discounts to all HW events</p><p></p><p></p><h3>Premium:
+    $39/month or $399/year</h3><p><strong>Coworking every Wednesday 9am-5pm</strong></p><p>Free
+    entry to Pulse Breakfast + complimentary parking (Pulse Breakfast only)</p><p>Discounted
+    entry to Pulse Lunch</p><p>Discounts to all HW Events</p><p>Preferred seating
+    at Pitch Day + free ticket</p><p>1 hour of conference room space per month</p>"
+  - template: code
   block_name: code
   code: '<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"
     style="margin: -1.5rem auto 0"> <input type="hidden" name="cmd" value="_s-xclick">
@@ -39,15 +48,6 @@ content_blocks:
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
     width="1" height="1"> </form>'
   custom_css: 'margin: -3.5rem auto -1.5rem;'
-- template: text
-  block_name: text
-  text: "<h3>Basic: $29/month or $299/year     </h3><p><strong>Coworking every Wednesday
-    9am - 5pm</strong></p><p>Free entry to The Pulse Breakfast       </p><p>Discounted
-    entry to The Pulse Lunch</p><p>Discounts to all HW events</p><p></p><p></p><h3>Premium:
-    $39/month or $399/year</h3><p><strong>Coworking every Wednesday 9am-5pm</strong></p><p>Free
-    entry to Pulse Breakfast + complimentary parking (Pulse Breakfast only)</p><p>Discounted
-    entry to Pulse Lunch</p><p>Discounts to all HW Events</p><p>Preferred seating
-    at Pitch Day + free ticket</p><p>1 hour of conference room space per month</p>"
 - template: slider
   block_name: slider
   images:
