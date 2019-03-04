@@ -41,13 +41,14 @@ content_blocks:
   custom_css: 'margin: -3.5rem auto -1.5rem;'
 - template: text
   block_name: text
-  text: "<h3>Basic: $29/month or $299/year</h3><p>Free entry to The Pulse Breakfast</p><p>Discounted
-    entry to The Pulse Lunch</p><p>Discounts to all HW events</p><p><strong>Coworking
-    every Wednesday 9am - 5pm</strong></p><p></p><h3>Premium: $39/month or $399/year</h3><p>Free
-    entry to Pulse Breakfast + complimentary parking (Pulse Breakfast only)</p><p>Discounted
-    entry to Pulse Lunch</p><p>Discounts to all HW Events</p><p>Preferred seating
-    at Pitch Day + free ticket</p><p><strong>Coworking every Wednesday 9am-5pm</strong></p><p>1
-    hour of conference room space per month</p>"
+  text: "<h3>Basic: $29/month or $299/year     |     Premium: $39/month or $399/year</h3><p>Free
+    entry to The Pulse Breakfast       Free entry to Pulse Breakfast + complimentary
+    parking (Pulse Breakfast only)</p><p>Discounted entry to The Pulse Lunch</p><p>Discounts
+    to all HW events</p><p><strong>Coworking every Wednesday 9am - 5pm</strong></p><p></p><h3>Premium:
+    $39/month or $399/year</h3><p>Free entry to Pulse Breakfast + complimentary parking
+    (Pulse Breakfast only)</p><p>Discounted entry to Pulse Lunch</p><p>Discounts to
+    all HW Events</p><p>Preferred seating at Pitch Day + free ticket</p><p><strong>Coworking
+    every Wednesday 9am-5pm</strong></p><p>1 hour of conference room space per month</p>"
 - template: slider
   block_name: slider
   images:
