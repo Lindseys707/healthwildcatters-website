@@ -81,7 +81,7 @@ content_blocks:
     link_text: Learn more
     link_url: "/leasing"
   - heading: Pulse Memberships starting at
-    text: 'Basic | Premium '
+    text: 'Basic | Premium - [Weekly Coworking] '
     price: "$299/mo"
     link_text: Learn more
     link_url: "/leasing"
